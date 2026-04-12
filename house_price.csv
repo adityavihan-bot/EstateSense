@@ -1,0 +1,2501 @@
+Property ID,BHK,Bathrooms,Area,Furnished Status,Lawn,Lift,Swimming Pool,Gym,Car Parking,Fresh Water Supply,Regular Electricity,Price,Price per sq. ft.
+PROP-9000,3,3,2382,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,21993006,9233
+PROP-9001,3,4,2344,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,24007248,10242
+PROP-9002,1,2,673,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,4435743,6591
+PROP-9003,4,4,4336,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,39444592,9097
+PROP-9004,3,3,1834,Fully Furnished,No,Yes,No,No,Covered,No,Yes,20803062,11343
+PROP-9005,3,4,1657,Unfurnished,No,Yes,No,No,Open,Yes,Yes,13536033,8169
+PROP-9006,3,3,2166,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,23576910,10885
+PROP-9007,3,3,2216,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,27290040,12315
+PROP-9008,2,2,955,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9587245,10039
+PROP-9009,3,3,2090,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,23947220,11458
+PROP-9010,2,2,1159,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14758706,12734
+PROP-9011,3,3,1831,Unfurnished,No,Yes,No,No,Open,Yes,Yes,17004497,9287
+PROP-9012,3,3,2032,Unfurnished,No,Yes,No,No,Open,Yes,No,12236704,6022
+PROP-9013,3,3,2524,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,24447464,9686
+PROP-9014,2,3,998,Unfurnished,No,No,No,No,Covered,No,Yes,7339292,7354
+PROP-9015,1,2,758,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7450382,9829
+PROP-9016,2,2,1241,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,10877365,8765
+PROP-9017,2,2,1098,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9123282,8309
+PROP-9018,1,2,754,Unfurnished,No,No,Yes,Yes,,Yes,Yes,6821438,9047
+PROP-9019,4,5,4630,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,Yes,58486160,12632
+PROP-9020,2,2,1083,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10736862,9914
+PROP-9021,2,3,1049,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,9841718,9382
+PROP-9022,3,3,1667,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19825631,11893
+PROP-9023,1,1,613,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,5001467,8159
+PROP-9024,4,4,4294,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,52528502,12233
+PROP-9025,3,3,2204,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,16278744,7386
+PROP-9026,3,4,1852,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,No,12971408,7004
+PROP-9027,3,4,1620,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,14429340,8907
+PROP-9028,1,2,595,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,6752060,11348
+PROP-9029,3,4,2169,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,23256018,10722
+PROP-9030,4,5,4646,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,59055306,12711
+PROP-9031,1,1,624,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,7210320,11555
+PROP-9032,1,1,726,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,6126714,8439
+PROP-9033,5,5,7457,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,79692959,10687
+PROP-9034,4,4,3574,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,37008770,10355
+PROP-9035,3,4,2077,Fully Furnished,No,Yes,No,No,Covered,Yes,No,15415494,7422
+PROP-9036,5,6,7159,Semi-Furnished,Yes,Yes,No,No,Covered,No,Yes,73286683,10237
+PROP-9037,2,2,1380,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13677180,9911
+PROP-9038,3,3,2334,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,22182336,9504
+PROP-9039,3,4,1689,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,14885157,8813
+PROP-9040,3,3,1894,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,25305734,13361
+PROP-9041,4,5,4701,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,58226586,12386
+PROP-9042,2,3,1402,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,10827646,7723
+PROP-9043,1,1,511,Unfurnished,No,Yes,No,No,Open,Yes,Yes,5542817,10847
+PROP-9044,4,4,4240,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,55005520,12973
+PROP-9045,2,2,1033,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,12287535,11895
+PROP-9046,3,4,2232,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22581144,10117
+PROP-9047,2,3,936,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,10315656,11021
+PROP-9048,2,3,1330,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,16648940,12518
+PROP-9049,3,4,2355,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,25332735,10757
+PROP-9050,3,4,1828,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,20113484,11003
+PROP-9051,3,3,1953,Semi-Furnished,No,Yes,Yes,Yes,Open,No,Yes,17987130,9210
+PROP-9052,1,1,711,Semi-Furnished,No,No,No,No,Open,Yes,Yes,6796449,9559
+PROP-9053,4,4,3027,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,35891139,11857
+PROP-9054,2,3,1028,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10697368,10406
+PROP-9055,3,4,1838,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,21673696,11792
+PROP-9056,3,3,1931,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,17647409,9139
+PROP-9057,4,4,4129,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,46570991,11279
+PROP-9058,4,5,3076,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,33703732,10957
+PROP-9059,2,2,1017,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,10098810,9930
+PROP-9060,2,3,1151,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,9466975,8225
+PROP-9061,1,1,469,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,3152149,6721
+PROP-9062,2,3,1242,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,12667158,10199
+PROP-9063,3,3,1897,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18810652,9916
+PROP-9064,3,4,2338,Semi-Furnished,No,No,No,No,Open,Yes,Yes,16164932,6914
+PROP-9065,3,3,2061,Fully Furnished,No,No,Yes,Yes,Open,Yes,Yes,24328044,11804
+PROP-9066,2,3,1165,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14672010,12594
+PROP-9067,2,3,1426,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14416860,10110
+PROP-9068,2,3,1101,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,No,8910393,8093
+PROP-9069,5,5,8117,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,79441079,9787
+PROP-9070,3,4,2172,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,23922408,11014
+PROP-9071,3,4,2132,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15970812,7491
+PROP-9072,2,3,1229,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,11492379,9351
+PROP-9073,2,2,1418,Fully Furnished,No,Yes,No,No,Covered,No,Yes,15080430,10635
+PROP-9074,3,3,1850,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,18191050,9833
+PROP-9075,5,6,7737,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,86120547,11131
+PROP-9076,3,4,1744,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,16622064,9531
+PROP-9077,2,2,912,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,7267728,7969
+PROP-9078,3,3,1873,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,19876276,10612
+PROP-9079,4,4,4741,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,59708154,12594
+PROP-9080,3,3,2169,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,21188961,9769
+PROP-9081,2,3,953,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10901367,11439
+PROP-9082,5,6,9284,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,133281104,14356
+PROP-9083,3,4,1914,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,16301538,8517
+PROP-9084,2,2,1073,Fully Furnished,No,No,No,No,Covered,Yes,Yes,13626027,12699
+PROP-9085,3,3,2529,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,21109563,8347
+PROP-9086,3,3,2031,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18366333,9043
+PROP-9087,2,2,958,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,9976612,10414
+PROP-9088,3,3,2368,Unfurnished,No,Yes,No,No,Open,Yes,Yes,25998272,10979
+PROP-9089,5,5,8436,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,79585224,9434
+PROP-9090,5,5,8257,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,90620575,10975
+PROP-9091,2,2,1113,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,11940264,10728
+PROP-9092,2,2,1339,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14091636,10524
+PROP-9093,2,2,1045,Unfurnished,No,Yes,No,No,Open,Yes,Yes,8492715,8127
+PROP-9094,4,4,3506,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,38544964,10994
+PROP-9095,5,6,9130,Fully Furnished,Yes,Yes,No,No,Covered,No,Yes,117904820,12914
+PROP-9096,3,3,2416,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20424864,8454
+PROP-9097,5,6,5632,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,75046400,13325
+PROP-9098,3,4,2031,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,22257729,10959
+PROP-9099,3,3,1814,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,18978068,10462
+PROP-9100,1,1,690,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,8636730,12517
+PROP-9101,4,4,3658,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,48633110,13295
+PROP-9102,2,3,1212,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,10926180,9015
+PROP-9103,1,1,506,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,4453812,8802
+PROP-9104,3,4,2025,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,17876700,8828
+PROP-9105,3,3,2567,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,24342861,9483
+PROP-9106,3,3,1706,Unfurnished,No,Yes,Yes,Yes,Covered,No,Yes,15722496,9216
+PROP-9107,1,1,565,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,4571980,8092
+PROP-9108,3,3,2007,Semi-Furnished,Yes,Yes,No,No,Covered,No,Yes,16914996,8428
+PROP-9109,2,2,1009,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,9033577,8953
+PROP-9110,3,3,1617,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14651637,9061
+PROP-9111,1,1,714,Semi-Furnished,No,Yes,Yes,Yes,Open,No,Yes,5719854,8011
+PROP-9112,4,5,3943,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,42261074,10718
+PROP-9113,2,2,936,Semi-Furnished,No,No,No,No,Open,Yes,Yes,7122024,7609
+PROP-9114,5,5,5756,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,82598600,14350
+PROP-9115,4,5,3311,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,37377879,11289
+PROP-9116,1,1,805,Semi-Furnished,No,Yes,Yes,Yes,,Yes,No,7204750,8950
+PROP-9117,2,3,1409,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,12425971,8819
+PROP-9118,4,5,3443,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,44060071,12797
+PROP-9119,2,3,1285,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,12144535,9451
+PROP-9120,3,4,2016,Fully Furnished,No,Yes,No,No,Open,Yes,No,15803424,7839
+PROP-9121,3,3,2130,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,19730190,9263
+PROP-9122,3,3,2140,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,20957020,9793
+PROP-9123,3,4,2499,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23035782,9218
+PROP-9124,2,2,1262,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,No,9616440,7620
+PROP-9125,2,3,1058,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,10184308,9626
+PROP-9126,1,2,502,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,4024534,8017
+PROP-9127,5,6,6843,Fully Furnished,Yes,Yes,No,No,Private Garage,No,Yes,81698577,11939
+PROP-9128,3,3,2197,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,24632764,11212
+PROP-9129,3,3,1724,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,18943312,10988
+PROP-9130,3,3,2305,Unfurnished,No,Yes,No,No,Open,Yes,No,13986740,6068
+PROP-9131,2,3,1279,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13434616,10504
+PROP-9132,3,4,1607,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14037145,8735
+PROP-9133,2,2,1201,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,12248999,10199
+PROP-9134,2,2,934,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,9896664,10596
+PROP-9135,2,2,1368,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12827736,9377
+PROP-9136,3,4,1756,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,20898156,11901
+PROP-9137,3,3,1639,Unfurnished,No,Yes,No,No,Covered,No,Yes,17765121,10839
+PROP-9138,1,1,653,Unfurnished,No,No,No,No,,Yes,Yes,4548145,6965
+PROP-9139,2,3,1136,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11803040,10390
+PROP-9140,5,5,8428,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,112867776,13392
+PROP-9141,3,4,2177,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,19852063,9119
+PROP-9142,3,4,1773,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13451751,7587
+PROP-9143,4,4,3946,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,48433204,12274
+PROP-9144,2,2,1177,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11903001,10113
+PROP-9145,1,1,568,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,6120200,10775
+PROP-9146,3,3,1627,Semi-Furnished,No,Yes,No,No,Open,Yes,No,13216121,8123
+PROP-9147,4,4,4808,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,56623816,11777
+PROP-9148,5,6,9242,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,88094744,9532
+PROP-9149,1,1,511,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,4935749,9659
+PROP-9150,5,5,8656,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,93995504,10859
+PROP-9151,2,3,1154,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11214572,9718
+PROP-9152,1,1,635,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,5375910,8466
+PROP-9153,3,3,2113,Unfurnished,No,Yes,Yes,Yes,Covered,No,Yes,23150028,10956
+PROP-9154,3,3,1604,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,15919700,9925
+PROP-9155,3,3,1724,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17907188,10387
+PROP-9156,4,5,3658,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,43797234,11973
+PROP-9157,2,3,930,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,9223740,9918
+PROP-9158,5,5,5596,Unfurnished,Yes,No,No,Yes,Private Garage,Yes,Yes,74449184,13304
+PROP-9159,3,3,2265,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,20371410,8994
+PROP-9160,2,3,1348,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,13180744,9778
+PROP-9161,2,2,1194,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11553144,9676
+PROP-9162,3,3,2371,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,25718237,10847
+PROP-9163,2,2,1286,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14615390,11365
+PROP-9164,2,3,977,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,11458256,11728
+PROP-9165,3,4,2471,Fully Furnished,No,Yes,No,Yes,Open,No,Yes,21243187,8597
+PROP-9166,3,4,1851,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,16001895,8645
+PROP-9167,2,3,1421,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11099431,7811
+PROP-9168,4,4,3703,Fully Furnished,Yes,No,No,No,Private Garage,Yes,Yes,41714295,11265
+PROP-9169,2,3,1395,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16801380,12044
+PROP-9170,4,5,3271,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,40952920,12520
+PROP-9171,4,4,4166,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,38543832,9252
+PROP-9172,2,2,974,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,10358490,10635
+PROP-9173,4,4,2913,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,34993869,12013
+PROP-9174,4,4,3813,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,47776890,12530
+PROP-9175,4,5,4387,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,60878399,13877
+PROP-9176,2,3,1266,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13311990,10515
+PROP-9177,2,3,1411,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,13429898,9518
+PROP-9178,3,3,1902,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14272608,7504
+PROP-9179,2,2,914,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10226746,11189
+PROP-9180,2,2,1329,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13437519,10111
+PROP-9181,2,3,1327,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16103145,12135
+PROP-9182,3,3,2471,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18243393,7383
+PROP-9183,3,4,2574,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,21307572,8278
+PROP-9184,3,4,2563,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,26050332,10164
+PROP-9185,1,2,808,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9704080,12010
+PROP-9186,3,3,1621,Unfurnished,No,Yes,No,No,Open,Yes,Yes,12689188,7828
+PROP-9187,4,5,3812,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,31494744,8262
+PROP-9188,4,5,3258,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,45644580,14010
+PROP-9189,3,4,1823,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18725856,10272
+PROP-9190,2,2,1435,Unfurnished,No,No,No,No,Open,Yes,Yes,12165930,8478
+PROP-9191,2,2,1334,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,16808400,12600
+PROP-9192,3,4,2500,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,28100000,11240
+PROP-9193,2,2,1213,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12402925,10225
+PROP-9194,3,3,1789,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,12954149,7241
+PROP-9195,4,5,4825,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,43777225,9073
+PROP-9196,2,2,1365,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,14990430,10982
+PROP-9197,3,4,2174,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23648772,10878
+PROP-9198,3,4,1984,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21962880,11070
+PROP-9199,3,4,2116,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,15946176,7536
+PROP-9200,3,3,1675,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18296025,10923
+PROP-9201,1,1,757,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,8488998,11214
+PROP-9202,1,2,452,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,3988448,8824
+PROP-9203,2,3,1147,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,11767073,10259
+PROP-9204,1,2,632,Semi-Furnished,No,Yes,No,No,,Yes,No,4860712,7691
+PROP-9205,3,4,2055,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,18160035,8837
+PROP-9206,5,6,6304,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,75465184,11971
+PROP-9207,3,3,2226,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,21988428,9878
+PROP-9208,3,3,1638,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,15692040,9580
+PROP-9209,3,3,2139,Unfurnished,Yes,Yes,No,No,Covered,No,Yes,23024196,10764
+PROP-9210,3,4,2115,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,25225605,11927
+PROP-9211,3,4,1870,Fully Furnished,No,No,Yes,Yes,Open,Yes,Yes,22843920,12216
+PROP-9212,2,2,1226,Unfurnished,No,Yes,No,No,Covered,Yes,No,10973926,8951
+PROP-9213,2,2,1123,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,12201395,10865
+PROP-9214,2,2,1250,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,14480000,11584
+PROP-9215,2,3,1216,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11857216,9751
+PROP-9216,4,5,4492,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,54025284,12027
+PROP-9217,2,3,1108,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11349244,10243
+PROP-9218,3,4,2289,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23789577,10393
+PROP-9219,3,4,1923,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,16820481,8747
+PROP-9220,2,2,1246,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12769008,10248
+PROP-9221,3,4,2133,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,19638531,9207
+PROP-9222,4,5,3384,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,31643784,9351
+PROP-9223,2,2,933,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,6725997,7209
+PROP-9224,3,3,2222,Unfurnished,No,No,No,No,Covered,Yes,Yes,22886600,10300
+PROP-9225,3,3,1653,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,16586202,10034
+PROP-9226,5,5,8033,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,99898388,12436
+PROP-9227,2,2,1242,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11015298,8869
+PROP-9228,2,2,1062,Semi-Furnished,No,No,No,No,Open,Yes,Yes,11022498,10379
+PROP-9229,5,5,7715,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,96506935,12509
+PROP-9230,2,3,1002,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9300564,9282
+PROP-9231,3,3,2514,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,26681082,10613
+PROP-9232,3,3,2287,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16889495,7385
+PROP-9233,4,4,3733,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,42907102,11494
+PROP-9234,3,3,1826,Fully Furnished,No,No,No,No,Open,No,Yes,15420570,8445
+PROP-9235,4,4,3455,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,31260840,9048
+PROP-9236,3,4,1753,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,15855885,9045
+PROP-9237,2,3,1081,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,11387254,10534
+PROP-9238,1,2,768,Semi-Furnished,No,Yes,No,Yes,,Yes,Yes,5078016,6612
+PROP-9239,1,2,503,Fully Furnished,No,No,No,No,Open,Yes,Yes,4748823,9441
+PROP-9240,4,5,4004,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,43767724,10931
+PROP-9241,2,3,1191,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10942908,9188
+PROP-9242,2,3,1090,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9611620,8818
+PROP-9243,3,3,1783,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14187331,7957
+PROP-9244,2,3,1139,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,8828389,7751
+PROP-9245,4,5,3257,Unfurnished,Yes,Yes,No,No,Covered,Yes,No,24333047,7471
+PROP-9246,4,4,2908,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,40235088,13836
+PROP-9247,4,4,4485,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,55618485,12401
+PROP-9248,4,4,3757,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,43990713,11709
+PROP-9249,3,4,1574,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,15173360,9640
+PROP-9250,4,5,3862,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,55728660,14430
+PROP-9251,2,2,1403,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,10283990,7330
+PROP-9252,2,2,1229,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11042565,8985
+PROP-9253,5,6,7035,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,70610295,10037
+PROP-9254,4,5,3591,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,39788280,11080
+PROP-9255,1,2,655,Semi-Furnished,Yes,Yes,No,No,,Yes,Yes,5453530,8326
+PROP-9256,3,3,2106,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,17759898,8433
+PROP-9257,2,2,1160,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10924880,9418
+PROP-9258,3,3,1796,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,24055624,13394
+PROP-9259,4,4,4598,Semi-Furnished,Yes,No,No,Yes,Covered,Yes,Yes,40871622,8889
+PROP-9260,3,3,1743,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13170108,7556
+PROP-9261,4,4,2817,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,36257607,12871
+PROP-9262,3,4,1938,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,21765678,11231
+PROP-9263,2,2,1078,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,7686140,7130
+PROP-9264,2,2,930,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9805920,10544
+PROP-9265,3,4,2481,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17699454,7134
+PROP-9266,3,3,2479,Semi-Furnished,Yes,No,No,Yes,Open,No,Yes,25169287,10153
+PROP-9267,4,4,3447,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,35128377,10191
+PROP-9268,1,2,550,Semi-Furnished,No,No,Yes,Yes,,Yes,Yes,6449300,11726
+PROP-9269,3,4,1994,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,19760540,9910
+PROP-9270,2,2,1050,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,13561800,12916
+PROP-9271,3,4,1715,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21852530,12742
+PROP-9272,2,3,1065,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,13283745,12473
+PROP-9273,2,2,1413,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,17053497,12069
+PROP-9274,4,4,3284,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42754396,13019
+PROP-9275,5,5,9833,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,107002706,10882
+PROP-9276,5,5,6905,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,70078845,10149
+PROP-9277,2,2,1144,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9473464,8281
+PROP-9278,5,5,5608,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,62164680,11085
+PROP-9279,3,3,1759,Unfurnished,No,Yes,No,No,Covered,No,Yes,17185430,9770
+PROP-9280,1,2,845,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,7574580,8964
+PROP-9281,1,2,580,Unfurnished,Yes,No,Yes,Yes,Open,Yes,Yes,7359620,12689
+PROP-9282,5,5,6424,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,65878120,10255
+PROP-9283,2,2,1304,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9195808,7052
+PROP-9284,2,3,1176,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,8883504,7554
+PROP-9285,3,4,2304,Unfurnished,No,No,No,No,Covered,Yes,Yes,25007616,10854
+PROP-9286,3,4,2553,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,32114187,12579
+PROP-9287,4,5,4616,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,62251376,13486
+PROP-9288,2,3,1187,Unfurnished,No,No,No,No,Covered,Yes,Yes,12293759,10357
+PROP-9289,3,3,2421,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,25033140,10340
+PROP-9290,5,6,6170,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,74718700,12110
+PROP-9291,2,2,1006,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,11502604,11434
+PROP-9292,3,4,1872,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19502496,10418
+PROP-9293,5,5,8143,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,84418481,10367
+PROP-9294,2,3,1238,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,13443442,10859
+PROP-9295,4,4,4767,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,61894728,12984
+PROP-9296,4,5,4427,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,43982245,9935
+PROP-9297,3,4,1627,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,No,11836425,7275
+PROP-9298,3,3,2512,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,20276864,8072
+PROP-9299,3,4,2132,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,16593356,7783
+PROP-9300,2,3,1169,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,12813409,10961
+PROP-9301,5,5,7044,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,77455824,10996
+PROP-9302,4,4,2997,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,34438527,11491
+PROP-9303,2,2,1208,Unfurnished,No,Yes,No,No,Open,Yes,Yes,8714512,7214
+PROP-9304,2,2,949,Fully Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,13556465,14285
+PROP-9305,5,5,9226,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,108959060,11810
+PROP-9306,3,4,2062,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,19966346,9683
+PROP-9307,5,6,7173,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,84454902,11774
+PROP-9308,3,4,1718,Unfurnished,No,Yes,Yes,Yes,Covered,No,Yes,13972494,8133
+PROP-9309,3,4,2062,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,18417784,8932
+PROP-9310,2,2,1347,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,12408564,9212
+PROP-9311,3,3,2478,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,28063350,11325
+PROP-9312,2,3,1134,Fully Furnished,No,No,No,Yes,Covered,Yes,Yes,14372316,12674
+PROP-9313,2,3,986,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,10694156,10846
+PROP-9314,3,4,1687,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,19810441,11743
+PROP-9315,2,3,1143,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,No,12983337,11359
+PROP-9316,3,4,2561,Unfurnished,No,Yes,No,No,Open,Yes,Yes,22964487,8967
+PROP-9317,2,2,1133,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,7895877,6969
+PROP-9318,4,5,3114,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,29430414,9451
+PROP-9319,3,4,1750,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16094750,9197
+PROP-9320,2,3,1081,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10564613,9773
+PROP-9321,3,3,2243,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,22288691,9937
+PROP-9322,3,4,2215,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18280395,8253
+PROP-9323,3,3,2039,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14450393,7087
+PROP-9324,2,2,1325,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11462575,8651
+PROP-9325,3,4,1847,Fully Furnished,No,No,No,No,Covered,Yes,Yes,22500154,12182
+PROP-9326,3,3,2589,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,No,24455694,9446
+PROP-9327,2,2,1166,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,13007896,11156
+PROP-9328,2,3,1023,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7407543,7241
+PROP-9329,3,3,2420,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,25606020,10581
+PROP-9330,1,1,538,Unfurnished,Yes,Yes,No,Yes,,Yes,Yes,5363860,9970
+PROP-9331,2,2,1216,Unfurnished,Yes,Yes,Yes,Yes,Open,No,Yes,15005440,12340
+PROP-9332,2,3,1030,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,8284290,8043
+PROP-9333,3,4,2249,Semi-Furnished,Yes,Yes,No,Yes,Open,No,Yes,24999884,11116
+PROP-9334,4,4,4149,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,42083307,10143
+PROP-9335,1,1,707,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,7509047,10621
+PROP-9336,2,2,1211,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14234094,11754
+PROP-9337,1,2,800,Semi-Furnished,No,Yes,No,No,,No,Yes,7567200,9459
+PROP-9338,2,2,1102,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13006906,11803
+PROP-9339,3,3,2251,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,23041236,10236
+PROP-9340,4,5,4430,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,46116300,10410
+PROP-9341,4,4,4869,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,50467185,10365
+PROP-9342,3,3,2397,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19480419,8127
+PROP-9343,3,3,1824,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16952256,9294
+PROP-9344,4,4,4048,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,52300160,12920
+PROP-9345,3,3,2388,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,18812664,7878
+PROP-9346,3,3,1735,Fully Furnished,No,Yes,No,No,Covered,Yes,No,13432370,7742
+PROP-9347,2,3,1019,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10273558,10082
+PROP-9348,3,3,2559,Fully Furnished,Yes,No,Yes,Yes,Open,Yes,Yes,29321022,11458
+PROP-9349,3,3,1686,Unfurnished,Yes,No,No,Yes,Covered,Yes,No,12547212,7442
+PROP-9350,5,6,9135,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,122810940,13444
+PROP-9351,3,3,1756,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19389752,11042
+PROP-9352,3,4,2083,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21244517,10199
+PROP-9353,2,2,1445,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10080320,6976
+PROP-9354,4,5,3187,Unfurnished,Yes,No,No,No,Private Garage,Yes,Yes,41931359,13157
+PROP-9355,4,4,2933,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42123746,14362
+PROP-9356,2,3,1378,Fully Furnished,Yes,Yes,No,No,Covered,No,No,12425426,9017
+PROP-9357,3,3,2077,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,22207284,10692
+PROP-9358,4,5,2932,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,44795096,15278
+PROP-9359,1,2,505,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,4461170,8834
+PROP-9360,2,3,988,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9894820,10015
+PROP-9361,1,2,739,Semi-Furnished,No,Yes,No,No,,Yes,Yes,8086138,10942
+PROP-9362,3,3,2508,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19013148,7581
+PROP-9363,4,4,4068,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,46574532,11449
+PROP-9364,2,2,1099,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,7768831,7069
+PROP-9365,2,2,1148,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,12811680,11160
+PROP-9366,2,2,1007,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12024587,11941
+PROP-9367,1,2,810,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9182160,11336
+PROP-9368,2,2,934,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,7477604,8006
+PROP-9369,2,2,1393,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,14620928,10496
+PROP-9370,2,2,1376,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,13941632,10132
+PROP-9371,2,2,1081,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9887907,9147
+PROP-9372,2,2,949,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,12528698,13202
+PROP-9373,4,4,4210,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,40386530,9593
+PROP-9374,3,3,1568,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19841472,12654
+PROP-9375,2,3,1396,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15336456,10986
+PROP-9376,2,3,1111,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9597929,8639
+PROP-9377,2,3,1245,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11280945,9061
+PROP-9378,5,5,6690,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,88227720,13188
+PROP-9379,5,6,9290,Fully Furnished,Yes,Yes,No,No,Private Garage,No,No,78974290,8501
+PROP-9380,2,2,1185,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,8894610,7506
+PROP-9381,4,5,3949,Unfurnished,Yes,Yes,No,Yes,Covered,No,Yes,44659241,11309
+PROP-9382,2,3,1156,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,14226892,12307
+PROP-9383,3,3,2039,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,21688843,10637
+PROP-9384,2,2,1234,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,13760334,11151
+PROP-9385,3,3,2581,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,24746628,9588
+PROP-9386,3,4,2385,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22483395,9427
+PROP-9387,1,2,635,Fully Furnished,No,Yes,No,No,Open,Yes,No,5662930,8918
+PROP-9388,2,3,1149,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,13341039,11611
+PROP-9389,4,5,3649,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,45991996,12604
+PROP-9390,3,3,2437,Unfurnished,No,Yes,Yes,Yes,Open,No,Yes,19252300,7900
+PROP-9391,3,3,2345,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25494840,10872
+PROP-9392,4,5,3988,Unfurnished,Yes,Yes,No,No,Covered,Yes,No,29642804,7433
+PROP-9393,4,5,3226,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,34382708,10658
+PROP-9394,3,3,1924,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,16607968,8632
+PROP-9395,3,3,1766,Fully Furnished,No,Yes,No,Yes,Covered,No,Yes,22375220,12670
+PROP-9396,3,4,2513,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22998976,9152
+PROP-9397,4,4,3598,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,32831750,9125
+PROP-9398,3,3,2317,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,No,23137562,9986
+PROP-9399,3,4,2245,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,22277135,9923
+PROP-9400,2,2,1074,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9851802,9173
+PROP-9401,3,3,1697,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,17334855,10215
+PROP-9402,3,4,1873,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14259149,7613
+PROP-9403,2,2,964,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10018852,10393
+PROP-9404,1,1,699,Semi-Furnished,No,Yes,No,Yes,,Yes,No,4473600,6400
+PROP-9405,3,4,2076,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,18611340,8965
+PROP-9406,2,3,1320,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,15735720,11921
+PROP-9407,2,3,958,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,7209908,7526
+PROP-9408,5,5,6895,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,68108810,9878
+PROP-9409,3,3,2542,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,31116622,12241
+PROP-9410,2,2,1398,Unfurnished,No,Yes,No,No,Open,Yes,Yes,13595550,9725
+PROP-9411,2,3,1199,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,12714196,10604
+PROP-9412,3,4,1821,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18315618,10058
+PROP-9413,3,4,2222,Semi-Furnished,No,Yes,No,No,Open,Yes,No,13947494,6277
+PROP-9414,3,4,1952,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,17566048,8999
+PROP-9415,3,3,1870,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,20697160,11068
+PROP-9416,3,4,2363,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20976351,8877
+PROP-9417,3,4,1722,Semi-Furnished,No,Yes,No,Yes,Covered,No,Yes,14898744,8652
+PROP-9418,3,3,2498,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,24945028,9986
+PROP-9419,4,5,4177,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,39071658,9354
+PROP-9420,1,1,655,Fully Furnished,No,Yes,Yes,Yes,,Yes,Yes,6220535,9497
+PROP-9421,3,3,2192,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,18088384,8252
+PROP-9422,4,4,4873,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,No,45177583,9271
+PROP-9423,2,2,1137,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12890169,11337
+PROP-9424,3,3,1847,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,15446461,8363
+PROP-9425,2,2,1446,Fully Furnished,No,Yes,Yes,Yes,Covered,No,Yes,13463706,9311
+PROP-9426,3,4,2262,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,22522734,9957
+PROP-9427,3,3,1803,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18554673,10291
+PROP-9428,3,3,1745,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19067615,10927
+PROP-9429,3,4,1801,Unfurnished,No,Yes,No,No,Covered,No,Yes,20338693,11293
+PROP-9430,3,4,2580,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,24308760,9422
+PROP-9431,4,5,4767,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,No,53867100,11300
+PROP-9432,3,3,2048,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23560192,11504
+PROP-9433,3,3,2430,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,28175850,11595
+PROP-9434,2,3,920,Semi-Furnished,Yes,No,No,No,Open,Yes,Yes,7741800,8415
+PROP-9435,3,4,2562,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,20086080,7840
+PROP-9436,3,4,2217,Unfurnished,No,Yes,Yes,Yes,Open,No,Yes,21746553,9809
+PROP-9437,2,2,1003,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,7701034,7678
+PROP-9438,3,4,1697,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,13632001,8033
+PROP-9439,2,3,1189,Semi-Furnished,No,No,No,No,Open,Yes,Yes,11534489,9701
+PROP-9440,3,4,2268,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,20080872,8854
+PROP-9441,1,2,844,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,9668864,11456
+PROP-9442,2,2,1184,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9312160,7865
+PROP-9443,5,5,9058,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,98070966,10827
+PROP-9444,3,4,2007,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19510047,9721
+PROP-9445,4,5,3251,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,29805168,9168
+PROP-9446,2,2,1282,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,14709668,11474
+PROP-9447,3,3,2201,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22982842,10442
+PROP-9448,3,4,1728,Semi-Furnished,No,No,No,No,Open,No,Yes,17950464,10388
+PROP-9449,4,5,4170,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,49364460,11838
+PROP-9450,3,4,1685,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,19965565,11849
+PROP-9451,2,3,1227,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13108041,10683
+PROP-9452,1,1,498,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,6416232,12884
+PROP-9453,2,2,1157,Unfurnished,No,Yes,No,No,Open,Yes,Yes,8807084,7612
+PROP-9454,4,4,4796,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,57552000,12000
+PROP-9455,4,4,4880,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,57505920,11784
+PROP-9456,5,5,6420,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,70587900,10995
+PROP-9457,5,5,9039,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,96409974,10666
+PROP-9458,3,3,2406,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,27837420,11570
+PROP-9459,4,4,3390,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,42537720,12548
+PROP-9460,4,5,3895,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,42506135,10913
+PROP-9461,4,5,3408,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,45728544,13418
+PROP-9462,5,6,6482,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,67659116,10438
+PROP-9463,5,5,5969,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,67551173,11317
+PROP-9464,2,2,1047,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,8258736,7888
+PROP-9465,3,4,2105,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22485610,10682
+PROP-9466,4,4,4287,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,43341570,10110
+PROP-9467,2,2,1430,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16402100,11470
+PROP-9468,5,6,6908,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,70896804,10263
+PROP-9469,5,5,6837,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,69087885,10105
+PROP-9470,3,3,2255,Semi-Furnished,No,Yes,No,No,Open,No,Yes,24151050,10710
+PROP-9471,1,1,704,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,7438464,10566
+PROP-9472,3,3,2097,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,20804337,9921
+PROP-9473,3,4,1994,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23407566,11739
+PROP-9474,4,4,4538,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,40383662,8899
+PROP-9475,1,1,601,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,4865095,8095
+PROP-9476,3,3,2524,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,No,19412084,7691
+PROP-9477,2,2,1032,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,10284912,9966
+PROP-9478,3,4,1887,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,16111206,8538
+PROP-9479,5,6,8600,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,90678400,10544
+PROP-9480,4,5,3968,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,52456960,13220
+PROP-9481,4,5,4744,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,58873040,12410
+PROP-9482,2,3,955,Unfurnished,No,No,No,Yes,Covered,Yes,Yes,8952170,9374
+PROP-9483,3,3,2476,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,21892792,8842
+PROP-9484,4,4,4133,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,42321920,10240
+PROP-9485,3,4,2447,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,26897424,10992
+PROP-9486,3,4,1952,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23437664,12007
+PROP-9487,3,3,1864,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,21870312,11733
+PROP-9488,4,4,3036,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,33623700,11075
+PROP-9489,4,4,2975,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,34176800,11488
+PROP-9490,1,1,773,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7575400,9800
+PROP-9491,4,4,4414,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,48236192,10928
+PROP-9492,2,3,1375,Unfurnished,No,Yes,No,No,Open,Yes,Yes,12626625,9183
+PROP-9493,2,2,1282,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14027644,10942
+PROP-9494,3,3,1648,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17979680,10910
+PROP-9495,1,1,771,Unfurnished,No,Yes,No,Yes,,Yes,Yes,6679944,8664
+PROP-9496,5,6,8877,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,115960251,13063
+PROP-9497,2,2,1196,Unfurnished,No,Yes,No,Yes,Open,No,Yes,11184992,9352
+PROP-9498,4,5,4322,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,51838068,11994
+PROP-9499,2,3,995,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11437525,11495
+PROP-9500,5,5,6089,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,74992124,12316
+PROP-9501,3,4,2358,Unfurnished,No,No,No,No,Open,Yes,Yes,21476664,9108
+PROP-9502,1,1,622,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,4644474,7467
+PROP-9503,4,5,3116,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,No,26676076,8561
+PROP-9504,4,4,3170,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,35244060,11118
+PROP-9505,3,4,1877,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,20222798,10774
+PROP-9506,3,4,2288,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,17816656,7787
+PROP-9507,2,2,1087,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,11742861,10803
+PROP-9508,3,4,2086,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,25132128,12048
+PROP-9509,1,2,761,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,5476156,7196
+PROP-9510,3,3,2296,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,27359136,11916
+PROP-9511,3,3,2445,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,23298405,9529
+PROP-9512,2,3,1349,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14380340,10660
+PROP-9513,3,4,2184,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,18653544,8541
+PROP-9514,4,4,3303,Fully Furnished,Yes,No,No,Yes,Private Garage,Yes,No,35966367,10889
+PROP-9515,3,4,2268,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,16810416,7412
+PROP-9516,3,3,2411,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,26660838,11058
+PROP-9517,3,3,2424,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,No,19537440,8060
+PROP-9518,4,4,4472,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,46929168,10494
+PROP-9519,3,3,1702,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,18485422,10861
+PROP-9520,5,6,6848,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,75800512,11069
+PROP-9521,4,5,4758,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,70860894,14893
+PROP-9522,2,2,1286,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,14107420,10970
+PROP-9523,5,6,9070,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,120123080,13244
+PROP-9524,3,3,2259,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25411491,11249
+PROP-9525,2,2,1299,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,12046926,9274
+PROP-9526,2,2,981,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,10782171,10991
+PROP-9527,4,4,4721,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,39802751,8431
+PROP-9528,3,4,1672,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15598088,9329
+PROP-9529,1,1,484,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6022896,12444
+PROP-9530,2,3,1139,Unfurnished,No,No,No,No,Open,Yes,Yes,10841002,9518
+PROP-9531,3,3,1591,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19096773,12003
+PROP-9532,3,3,2216,Fully Furnished,No,Yes,No,No,Covered,Yes,No,21450880,9680
+PROP-9533,2,2,1380,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,14616960,10592
+PROP-9534,3,3,2580,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,19037820,7379
+PROP-9535,3,4,2368,Unfurnished,No,Yes,No,No,Open,Yes,Yes,23954688,10116
+PROP-9536,3,3,1852,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19245984,10392
+PROP-9537,3,3,2421,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,No,18031608,7448
+PROP-9538,2,2,992,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,8191936,8258
+PROP-9539,3,3,1960,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,20113520,10262
+PROP-9540,3,4,2309,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,24020527,10403
+PROP-9541,3,4,1813,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,24765580,13660
+PROP-9542,4,4,4166,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,44326240,10640
+PROP-9543,1,1,695,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,5471735,7873
+PROP-9544,3,4,2577,Unfurnished,No,Yes,No,No,Open,Yes,Yes,28058376,10888
+PROP-9545,2,3,1323,Unfurnished,No,Yes,No,No,Open,Yes,Yes,12143817,9179
+PROP-9546,2,2,1226,Fully Furnished,No,Yes,No,No,Covered,Yes,No,7993520,6520
+PROP-9547,2,2,1445,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19406350,13430
+PROP-9548,3,4,2542,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,19914028,7834
+PROP-9549,4,5,3042,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,37672128,12384
+PROP-9550,3,3,1784,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18924672,10608
+PROP-9551,3,4,1636,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17034032,10412
+PROP-9552,1,1,742,Fully Furnished,No,No,No,No,Open,Yes,Yes,7830326,10553
+PROP-9553,3,3,2586,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20297514,7849
+PROP-9554,2,3,1422,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,15367554,10807
+PROP-9555,2,2,1316,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12678344,9634
+PROP-9556,3,3,1587,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13262559,8357
+PROP-9557,4,5,2841,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,36722766,12926
+PROP-9558,1,1,752,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,7205664,9582
+PROP-9559,4,4,4355,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,57777785,13267
+PROP-9560,2,2,1294,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,14253410,11015
+PROP-9561,3,3,2358,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,25938000,11000
+PROP-9562,2,3,961,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10051099,10459
+PROP-9563,4,5,4537,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,54752516,12068
+PROP-9564,3,3,2231,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,26765307,11997
+PROP-9565,3,4,2398,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22769010,9495
+PROP-9566,5,5,5864,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,68837496,11739
+PROP-9567,2,3,1233,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,12688803,10291
+PROP-9568,2,3,1176,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12692568,10793
+PROP-9569,2,3,1102,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,11404598,10349
+PROP-9570,2,2,1260,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12967920,10292
+PROP-9571,5,5,6005,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,79001780,13156
+PROP-9572,1,2,555,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,4906200,8840
+PROP-9573,3,4,2056,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,25186000,12250
+PROP-9574,4,4,3999,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,41873529,10471
+PROP-9575,2,2,974,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,10079926,10349
+PROP-9576,3,3,1559,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14447253,9267
+PROP-9577,1,2,815,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9840310,12074
+PROP-9578,2,3,1226,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11021740,8990
+PROP-9579,2,3,959,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,8235892,8588
+PROP-9580,1,2,846,Fully Furnished,No,Yes,No,Yes,,Yes,Yes,8714646,10301
+PROP-9581,3,4,2323,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,28463719,12253
+PROP-9582,1,2,784,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7259056,9259
+PROP-9583,2,2,1049,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,7336706,6994
+PROP-9584,3,4,2211,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,15043644,6804
+PROP-9585,3,3,2274,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17648514,7761
+PROP-9586,4,4,3471,Unfurnished,Yes,Yes,No,Yes,Private Garage,No,Yes,33935967,9777
+PROP-9587,5,5,5646,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,59565300,10550
+PROP-9588,2,3,907,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,13139709,14487
+PROP-9589,3,3,1901,Unfurnished,No,Yes,No,No,Open,Yes,Yes,15048316,7916
+PROP-9590,2,2,1078,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11866624,11008
+PROP-9591,4,5,3761,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,36744970,9770
+PROP-9592,3,3,1905,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23842980,12516
+PROP-9593,4,5,4297,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,40439067,9411
+PROP-9594,4,4,4703,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,45985934,9778
+PROP-9595,3,4,2014,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22848830,11345
+PROP-9596,3,4,1786,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,19962122,11177
+PROP-9597,2,2,1345,Unfurnished,No,Yes,No,No,Covered,Yes,No,8161460,6068
+PROP-9598,4,5,3728,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,39360224,10558
+PROP-9599,2,3,987,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,8983674,9102
+PROP-9600,3,3,2291,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,24312092,10612
+PROP-9601,4,5,4266,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,47156364,11054
+PROP-9602,2,3,1145,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14911335,13023
+PROP-9603,5,6,8893,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,106716000,12000
+PROP-9604,4,4,3977,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,36397504,9152
+PROP-9605,3,3,2560,Fully Furnished,No,Yes,Yes,Yes,Covered,No,Yes,34255360,13381
+PROP-9606,3,3,1786,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14584476,8166
+PROP-9607,1,2,584,Unfurnished,Yes,Yes,No,No,Open,Yes,No,3626056,6209
+PROP-9608,5,5,9134,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,104648238,11457
+PROP-9609,3,4,2200,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,28243600,12838
+PROP-9610,3,3,2495,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,18066295,7241
+PROP-9611,3,3,1729,Semi-Furnished,Yes,No,No,No,Covered,Yes,No,14222754,8226
+PROP-9612,1,2,482,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,5439370,11285
+PROP-9613,3,3,2145,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,20377500,9500
+PROP-9614,2,2,1224,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,11351376,9274
+PROP-9615,5,6,8985,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,101341815,11279
+PROP-9616,1,1,755,Semi-Furnished,Yes,Yes,No,Yes,,Yes,Yes,6137395,8129
+PROP-9617,4,4,4539,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,52997364,11676
+PROP-9618,1,2,615,Fully Furnished,No,Yes,No,Yes,,No,No,4632795,7533
+PROP-9619,3,4,2420,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,No,25557620,10561
+PROP-9620,3,3,2207,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,20178601,9143
+PROP-9621,3,3,2130,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21163680,9936
+PROP-9622,3,3,1620,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,15582780,9619
+PROP-9623,1,1,738,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6420600,8700
+PROP-9624,3,3,2284,Unfurnished,No,Yes,No,No,Open,Yes,Yes,24240092,10613
+PROP-9625,1,2,823,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,7290957,8859
+PROP-9626,1,1,498,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,5240454,10523
+PROP-9627,2,2,926,Fully Furnished,No,No,No,Yes,Open,Yes,Yes,8268254,8929
+PROP-9628,5,5,9271,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,110482507,11917
+PROP-9629,2,3,1237,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14117881,11413
+PROP-9630,2,3,1371,Fully Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,16102395,11745
+PROP-9631,2,3,1403,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12819211,9137
+PROP-9632,1,2,467,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,4555585,9755
+PROP-9633,2,3,1237,Fully Furnished,Yes,No,No,Yes,Open,Yes,Yes,14575571,11783
+PROP-9634,2,2,1403,Semi-Furnished,No,No,No,Yes,Open,Yes,Yes,14410213,10271
+PROP-9635,3,3,2005,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19368300,9660
+PROP-9636,2,3,975,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,8637525,8859
+PROP-9637,4,4,3942,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,40732686,10333
+PROP-9638,2,2,934,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9243798,9897
+PROP-9639,3,3,2059,Semi-Furnished,Yes,Yes,No,No,Open,No,Yes,17736226,8614
+PROP-9640,2,2,1334,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,15148904,11356
+PROP-9641,1,2,568,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6205968,10926
+PROP-9642,1,1,592,Fully Furnished,No,Yes,Yes,Yes,,Yes,Yes,5387792,9101
+PROP-9643,3,3,2360,Unfurnished,No,Yes,No,No,Open,Yes,No,16822080,7128
+PROP-9644,5,5,8137,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,83957566,10318
+PROP-9645,4,5,3533,Fully Furnished,Yes,Yes,Yes,Yes,Covered,No,Yes,51518206,14582
+PROP-9646,2,2,1069,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9322749,8721
+PROP-9647,2,2,1140,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9573720,8398
+PROP-9648,3,3,2372,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,20551008,8664
+PROP-9649,5,5,8222,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,86816098,10559
+PROP-9650,2,3,1399,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,10667375,7625
+PROP-9651,3,3,1830,Unfurnished,No,Yes,No,No,Open,Yes,Yes,17758320,9704
+PROP-9652,2,3,1205,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,9032680,7496
+PROP-9653,4,4,3350,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,40803000,12180
+PROP-9654,2,2,1062,Fully Furnished,No,Yes,No,No,Open,No,Yes,10906740,10270
+PROP-9655,3,3,1572,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,18194328,11574
+PROP-9656,2,3,1357,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12043375,8875
+PROP-9657,5,6,8461,Unfurnished,Yes,No,No,No,Private Garage,Yes,Yes,77655058,9178
+PROP-9658,3,4,1789,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14823654,8286
+PROP-9659,2,3,980,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,8415260,8587
+PROP-9660,4,5,4575,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,No,Yes,47149950,10306
+PROP-9661,1,1,580,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,4579100,7895
+PROP-9662,2,3,1045,Semi-Furnished,No,Yes,No,Yes,Covered,No,Yes,10151130,9714
+PROP-9663,3,4,2588,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,22158456,8562
+PROP-9664,2,3,923,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,No,8743579,9473
+PROP-9665,2,2,1181,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,8061506,6826
+PROP-9666,3,3,1870,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,16988950,9085
+PROP-9667,3,3,2119,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,20183475,9525
+PROP-9668,1,1,566,Unfurnished,No,Yes,No,No,Open,Yes,Yes,4939482,8727
+PROP-9669,5,5,7785,Semi-Furnished,Yes,No,No,No,Private Garage,Yes,Yes,76728960,9856
+PROP-9670,3,4,2163,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,27381417,12659
+PROP-9671,2,2,1058,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10789484,10198
+PROP-9672,3,3,2527,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20751724,8212
+PROP-9673,2,2,1450,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,16793900,11582
+PROP-9674,3,3,1667,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,17511835,10505
+PROP-9675,3,3,1981,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,21127365,10665
+PROP-9676,2,3,1283,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,15616676,12172
+PROP-9677,1,2,592,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,6117728,10334
+PROP-9678,5,6,8491,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,97587063,11493
+PROP-9679,3,3,2206,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,15892024,7204
+PROP-9680,2,2,1384,Semi-Furnished,No,No,No,Yes,Open,Yes,Yes,9031984,6526
+PROP-9681,3,3,1604,Fully Furnished,No,No,No,No,Covered,Yes,No,11662684,7271
+PROP-9682,3,3,1842,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,15270180,8290
+PROP-9683,3,3,2423,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,28261872,11664
+PROP-9684,3,4,1903,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,22166144,11648
+PROP-9685,3,4,1760,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13849440,7869
+PROP-9686,3,4,1682,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,18034404,10722
+PROP-9687,2,3,936,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7679880,8205
+PROP-9688,1,1,460,Fully Furnished,Yes,Yes,No,Yes,,Yes,Yes,5857640,12734
+PROP-9689,2,3,1342,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,14878754,11087
+PROP-9690,5,5,6466,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,65798016,10176
+PROP-9691,3,3,1743,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14620284,8388
+PROP-9692,3,3,1671,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14282037,8547
+PROP-9693,3,4,2536,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,22785960,8985
+PROP-9694,3,3,2177,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,26720498,12274
+PROP-9695,3,4,1712,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,13341616,7793
+PROP-9696,3,3,1848,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,17984736,9732
+PROP-9697,5,5,9492,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,101602368,10704
+PROP-9698,4,4,4612,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,39321912,8526
+PROP-9699,2,2,1069,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,13021489,12181
+PROP-9700,2,2,951,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,8620815,9065
+PROP-9701,2,2,1186,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14509524,12234
+PROP-9702,5,6,8741,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,76483750,8750
+PROP-9703,1,2,615,Fully Furnished,No,Yes,No,No,,Yes,Yes,4968585,8079
+PROP-9704,3,3,2494,Semi-Furnished,No,Yes,No,Yes,Open,No,Yes,16348170,6555
+PROP-9705,2,3,1355,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9891500,7300
+PROP-9706,3,3,1901,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,15639527,8227
+PROP-9707,5,5,7209,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,83869506,11634
+PROP-9708,2,2,987,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7553511,7653
+PROP-9709,5,6,7980,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,99183420,12429
+PROP-9710,1,1,696,Semi-Furnished,No,Yes,No,No,Open,Yes,No,5895120,8470
+PROP-9711,3,3,2220,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18614700,8385
+PROP-9712,2,2,1167,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,11394588,9764
+PROP-9713,4,4,4922,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,55293748,11234
+PROP-9714,1,1,460,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,5056320,10992
+PROP-9715,2,2,947,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,7753089,8187
+PROP-9716,3,3,1588,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15321024,9648
+PROP-9717,3,4,2459,Unfurnished,No,Yes,No,No,Open,Yes,Yes,24951473,10147
+PROP-9718,5,5,6143,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,76719927,12489
+PROP-9719,2,2,1131,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,12961260,11460
+PROP-9720,4,5,2919,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,39108762,13398
+PROP-9721,4,5,4638,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,62974764,13578
+PROP-9722,2,2,1394,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11716570,8405
+PROP-9723,2,2,1165,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,11737375,10075
+PROP-9724,3,4,2499,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,22970808,9192
+PROP-9725,4,4,4401,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,53265303,12103
+PROP-9726,4,4,3049,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,34813482,11418
+PROP-9727,2,2,939,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10468911,11149
+PROP-9728,1,1,622,Fully Furnished,No,Yes,Yes,Yes,,Yes,Yes,5740438,9229
+PROP-9729,3,3,2381,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,21414714,8994
+PROP-9730,5,6,9499,Unfurnished,Yes,No,No,No,Private Garage,Yes,Yes,90012524,9476
+PROP-9731,4,4,2880,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,33618240,11673
+PROP-9732,4,4,4839,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,41208924,8516
+PROP-9733,3,3,2210,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,17509830,7923
+PROP-9734,4,5,3053,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,28734836,9412
+PROP-9735,2,2,1150,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11475850,9979
+PROP-9736,3,3,1668,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,16708356,10017
+PROP-9737,2,3,948,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,No,8551908,9021
+PROP-9738,2,2,1420,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,14398800,10140
+PROP-9739,2,3,1088,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,8751872,8044
+PROP-9740,2,3,982,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,7856000,8000
+PROP-9741,2,2,1023,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,9862743,9641
+PROP-9742,1,1,451,Semi-Furnished,No,No,No,No,Open,Yes,Yes,3717593,8243
+PROP-9743,2,2,1384,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12251168,8852
+PROP-9744,3,3,1965,Unfurnished,No,Yes,No,No,Open,Yes,Yes,18679290,9506
+PROP-9745,3,3,1642,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,14464378,8809
+PROP-9746,2,3,971,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10745086,11066
+PROP-9747,3,4,2177,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,23326555,10715
+PROP-9748,1,1,613,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,5714999,9323
+PROP-9749,4,4,3782,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,46030722,12171
+PROP-9750,4,4,4951,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,63655007,12857
+PROP-9751,1,1,787,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,8631029,10967
+PROP-9752,5,5,7983,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,103810932,13004
+PROP-9753,3,3,2423,Unfurnished,No,Yes,Yes,Yes,Open,No,Yes,28366061,11707
+PROP-9754,5,6,7055,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,No,66408715,9413
+PROP-9755,3,4,2505,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,24150705,9641
+PROP-9756,3,3,1906,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,23500980,12330
+PROP-9757,3,3,1876,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20870500,11125
+PROP-9758,5,5,6115,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,90667105,14827
+PROP-9759,1,2,735,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6326880,8608
+PROP-9760,5,5,5864,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,75352400,12850
+PROP-9761,5,5,8669,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,108007071,12459
+PROP-9762,3,3,2399,Semi-Furnished,Yes,No,No,No,Open,Yes,Yes,28670449,11951
+PROP-9763,3,3,1983,Semi-Furnished,No,No,No,Yes,Open,Yes,Yes,14947854,7538
+PROP-9764,3,3,2566,Unfurnished,No,Yes,No,No,Open,Yes,No,16483984,6424
+PROP-9765,3,3,1709,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,16426908,9612
+PROP-9766,3,3,2066,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,24816792,12012
+PROP-9767,3,4,2182,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,18200062,8341
+PROP-9768,2,2,1316,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,13408724,10189
+PROP-9769,5,5,7963,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,94711922,11894
+PROP-9770,2,2,1330,Semi-Furnished,No,Yes,No,Yes,Open,No,Yes,14274890,10733
+PROP-9771,2,2,1138,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14787172,12994
+PROP-9772,3,3,2349,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,27899073,11877
+PROP-9773,4,4,3047,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,32736968,10744
+PROP-9774,3,3,2175,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,22028400,10128
+PROP-9775,3,4,2426,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,17428384,7184
+PROP-9776,1,1,670,Semi-Furnished,No,Yes,No,Yes,,Yes,No,3314490,4947
+PROP-9777,1,1,587,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,4481158,7634
+PROP-9778,5,6,6569,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,56243778,8562
+PROP-9779,3,3,1873,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,14017532,7484
+PROP-9780,3,3,2377,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,24552033,10329
+PROP-9781,1,2,588,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,6462120,10990
+PROP-9782,2,2,1264,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,10808464,8551
+PROP-9783,1,1,530,Fully Furnished,No,Yes,No,No,Open,No,No,5184990,9783
+PROP-9784,2,2,1405,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12982200,9240
+PROP-9785,5,5,6849,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,69284484,10116
+PROP-9786,3,3,2563,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,No,20058038,7826
+PROP-9787,3,3,2571,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23807460,9260
+PROP-9788,2,2,1302,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14351946,11023
+PROP-9789,2,2,1319,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,12382772,9388
+PROP-9790,5,5,6852,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,98106936,14318
+PROP-9791,2,3,1257,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9696498,7714
+PROP-9792,2,3,990,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9770310,9869
+PROP-9793,5,5,7326,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,96783786,13211
+PROP-9794,4,4,3686,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,Yes,42916098,11643
+PROP-9795,5,5,7707,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,95443488,12384
+PROP-9796,2,2,973,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9779623,10051
+PROP-9797,4,4,4869,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,62985384,12936
+PROP-9798,1,2,780,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,9196980,11791
+PROP-9799,3,3,1964,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,18640324,9491
+PROP-9800,3,4,2044,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,17574312,8598
+PROP-9801,2,2,1431,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,15318855,10705
+PROP-9802,5,5,6758,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,75399006,11157
+PROP-9803,2,2,1221,Unfurnished,No,Yes,No,No,Open,Yes,Yes,11548218,9458
+PROP-9804,3,3,1945,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,23641475,12155
+PROP-9805,2,3,965,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,7591655,7867
+PROP-9806,4,5,4964,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,47465768,9562
+PROP-9807,4,5,3312,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,26900064,8122
+PROP-9808,2,3,1407,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14884653,10579
+PROP-9809,2,2,1294,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,12214066,9439
+PROP-9810,3,3,1972,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21973996,11143
+PROP-9811,4,5,3896,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,41063840,10540
+PROP-9812,3,3,2119,Unfurnished,No,No,No,Yes,Open,Yes,No,15693314,7406
+PROP-9813,3,3,2397,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,27476811,11463
+PROP-9814,1,1,465,Unfurnished,Yes,Yes,No,No,,Yes,Yes,4955505,10657
+PROP-9815,3,3,1708,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14769076,8647
+PROP-9816,3,4,1553,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,17912302,11534
+PROP-9817,4,4,4417,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,43215928,9784
+PROP-9818,4,5,4574,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,55784504,12196
+PROP-9819,1,1,668,Fully Furnished,Yes,Yes,No,Yes,,Yes,Yes,7708052,11539
+PROP-9820,2,2,1373,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14443960,10520
+PROP-9821,3,4,2405,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,19030765,7913
+PROP-9822,4,5,4430,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,51901880,11716
+PROP-9823,3,4,1794,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,15849990,8835
+PROP-9824,3,4,2343,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,20969850,8950
+PROP-9825,3,3,2186,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,24159672,11052
+PROP-9826,3,3,2352,Fully Furnished,No,No,No,Yes,Open,Yes,No,13641600,5800
+PROP-9827,4,4,4603,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,46628390,10130
+PROP-9828,2,2,1121,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9830049,8769
+PROP-9829,1,2,723,Unfurnished,No,Yes,No,No,Open,Yes,Yes,5404425,7475
+PROP-9830,3,3,2410,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,27580040,11444
+PROP-9831,3,3,1725,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,18495450,10722
+PROP-9832,4,4,2907,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,27881037,9591
+PROP-9833,4,4,3065,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,26650175,8695
+PROP-9834,3,3,2438,Fully Furnished,No,Yes,No,No,Covered,No,Yes,30428678,12481
+PROP-9835,1,1,599,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,4639854,7746
+PROP-9836,4,5,2808,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,29085264,10358
+PROP-9837,2,2,1161,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9584055,8255
+PROP-9838,1,2,492,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,4352724,8847
+PROP-9839,3,3,2508,Semi-Furnished,No,No,No,No,Open,Yes,Yes,20021364,7983
+PROP-9840,5,6,5810,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,53957470,9287
+PROP-9841,3,3,2519,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,25283203,10037
+PROP-9842,2,2,1162,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14070658,12109
+PROP-9843,3,4,1754,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21254972,12118
+PROP-9844,4,5,3638,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,38075308,10466
+PROP-9845,4,5,3702,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,51654006,13953
+PROP-9846,4,4,4134,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,37619400,9100
+PROP-9847,3,4,2217,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,23052366,10398
+PROP-9848,4,4,4927,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,45771830,9290
+PROP-9849,4,4,3444,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,42388752,12308
+PROP-9850,2,3,1039,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,8436680,8120
+PROP-9851,1,2,519,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,5210241,10039
+PROP-9852,5,5,8264,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,82937504,10036
+PROP-9853,5,5,9900,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,99326700,10033
+PROP-9854,3,3,1704,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18249840,10710
+PROP-9855,3,4,1949,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23857709,12241
+PROP-9856,2,3,912,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9910704,10867
+PROP-9857,2,2,1358,Unfurnished,No,Yes,No,No,Open,Yes,Yes,11752132,8654
+PROP-9858,2,3,1293,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10757760,8320
+PROP-9859,2,3,1419,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10645338,7502
+PROP-9860,2,2,1325,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14549825,10981
+PROP-9861,3,3,1553,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,13124403,8451
+PROP-9862,4,5,3207,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,Yes,35283414,11002
+PROP-9863,4,4,2920,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,35083800,12015
+PROP-9864,4,4,3262,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,35360080,10840
+PROP-9865,4,4,3716,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,44250128,11908
+PROP-9866,3,4,2042,Unfurnished,No,No,No,No,Covered,No,Yes,17246732,8446
+PROP-9867,2,3,933,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6865014,7358
+PROP-9868,2,2,1265,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12255320,9688
+PROP-9869,1,1,679,Unfurnished,No,Yes,No,No,,Yes,Yes,4854850,7150
+PROP-9870,3,3,1891,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,17531461,9271
+PROP-9871,4,5,3221,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,41116065,12765
+PROP-9872,3,3,2213,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,20277719,9163
+PROP-9873,3,3,1911,Unfurnished,No,Yes,No,No,Open,Yes,Yes,16761381,8771
+PROP-9874,2,3,1141,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,13674885,11985
+PROP-9875,1,1,732,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,6656808,9094
+PROP-9876,2,3,1311,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,13475769,10279
+PROP-9877,3,4,2293,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,29648490,12930
+PROP-9878,2,2,1053,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11896794,11298
+PROP-9879,2,3,951,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6968928,7328
+PROP-9880,3,3,1589,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,20900117,13153
+PROP-9881,1,1,670,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,7190440,10732
+PROP-9882,4,5,3989,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,36595086,9174
+PROP-9883,2,3,997,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10454542,10486
+PROP-9884,4,5,4207,Unfurnished,Yes,No,No,No,Private Garage,Yes,Yes,50492414,12002
+PROP-9885,4,5,3185,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,34101795,10707
+PROP-9886,3,3,2258,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14864414,6583
+PROP-9887,2,3,1397,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,10790428,7724
+PROP-9888,2,2,1380,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13822080,10016
+PROP-9889,2,2,952,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,12237008,12854
+PROP-9890,2,3,1160,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,12487400,10765
+PROP-9891,5,6,5964,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,68198340,11435
+PROP-9892,4,4,4600,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,52394000,11390
+PROP-9893,2,2,1107,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,11664459,10537
+PROP-9894,2,3,1278,Semi-Furnished,No,Yes,Yes,Yes,Covered,No,Yes,15847200,12400
+PROP-9895,2,3,1016,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,7940040,7815
+PROP-9896,4,4,3470,Fully Furnished,Yes,Yes,No,Yes,Covered,No,Yes,43149450,12435
+PROP-9897,2,3,1318,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,13036338,9891
+PROP-9898,1,1,782,Semi-Furnished,No,No,No,No,,Yes,Yes,6175454,7897
+PROP-9899,3,4,1845,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20169540,10932
+PROP-9900,2,3,1319,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12343202,9358
+PROP-9901,2,2,943,Semi-Furnished,Yes,No,No,No,Open,Yes,Yes,8919837,9459
+PROP-9902,3,3,1588,Unfurnished,No,Yes,No,No,Open,Yes,Yes,11921116,7507
+PROP-9903,3,4,2552,Unfurnished,No,Yes,No,No,Covered,No,Yes,23662144,9272
+PROP-9904,1,1,509,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,4631900,9100
+PROP-9905,3,4,2564,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,20112016,7844
+PROP-9906,3,4,2091,Unfurnished,No,Yes,No,No,Open,Yes,Yes,19182834,9174
+PROP-9907,3,3,1773,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,17253063,9731
+PROP-9908,5,5,9136,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,89624160,9810
+PROP-9909,3,3,1565,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,17509220,11188
+PROP-9910,2,3,1123,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9968871,8877
+PROP-9911,4,4,3385,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,Yes,31162310,9206
+PROP-9912,3,4,2536,Unfurnished,No,Yes,Yes,Yes,Covered,No,No,21304936,8401
+PROP-9913,3,3,1947,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13928838,7154
+PROP-9914,1,1,717,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6777084,9452
+PROP-9915,3,3,1570,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,13757910,8763
+PROP-9916,2,2,1089,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14227785,13065
+PROP-9917,3,3,2438,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,22551500,9250
+PROP-9918,3,3,2175,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,17969850,8262
+PROP-9919,3,3,2072,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,26295752,12691
+PROP-9920,3,3,1880,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,20097200,10690
+PROP-9921,3,3,1619,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,15534305,9595
+PROP-9922,5,5,9768,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,125684856,12867
+PROP-9923,2,2,1156,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10545032,9122
+PROP-9924,3,3,2459,Fully Furnished,No,Yes,No,No,Open,Yes,No,17141689,6971
+PROP-9925,5,5,9170,Fully Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,121108190,13207
+PROP-9926,4,4,4915,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,71223265,14491
+PROP-9927,3,3,1725,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,15666450,9082
+PROP-9928,3,4,2122,Semi-Furnished,No,No,Yes,Yes,Open,No,Yes,20139902,9491
+PROP-9929,2,3,1062,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,9050364,8522
+PROP-9930,2,2,1335,Fully Furnished,Yes,No,No,Yes,Open,Yes,No,13626345,10207
+PROP-9931,5,6,8218,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,112545510,13695
+PROP-9932,2,2,976,Fully Furnished,No,Yes,No,No,Open,Yes,No,7534720,7720
+PROP-9933,3,3,2310,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,26096070,11297
+PROP-9934,2,3,1183,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11950666,10102
+PROP-9935,2,2,1070,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,10034460,9378
+PROP-9936,4,5,3054,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,34693440,11360
+PROP-9937,4,4,3759,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,49468440,13160
+PROP-9938,5,5,5753,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,75928094,13198
+PROP-9939,3,4,1796,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,20587548,11463
+PROP-9940,4,4,3647,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,48530629,13307
+PROP-9941,3,4,1637,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,12631092,7716
+PROP-9942,3,3,2564,Fully Furnished,No,Yes,No,Yes,Covered,Yes,No,20309444,7921
+PROP-9943,3,3,2131,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,18426757,8647
+PROP-9944,3,4,1712,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,13264576,7748
+PROP-9945,3,4,2021,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,20923413,10353
+PROP-9946,2,3,1095,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10885395,9941
+PROP-9947,3,3,2441,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,29069869,11909
+PROP-9948,3,4,1624,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,No,14827120,9130
+PROP-9949,2,3,1299,Unfurnished,No,Yes,No,No,Open,Yes,Yes,8677320,6680
+PROP-9950,3,3,2152,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22824112,10606
+PROP-9951,4,4,2925,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,29758950,10174
+PROP-9952,5,6,7218,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,72136692,9994
+PROP-9953,5,6,6311,Unfurnished,Yes,Yes,No,No,Covered,No,Yes,57764583,9153
+PROP-9954,3,4,2334,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,17696388,7582
+PROP-9955,1,1,621,Semi-Furnished,No,No,No,No,,Yes,Yes,6724188,10828
+PROP-9956,2,2,1357,Semi-Furnished,No,No,Yes,Yes,Covered,Yes,Yes,16346422,12046
+PROP-9957,3,3,1566,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,12686166,8101
+PROP-9958,3,4,1628,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,15832300,9725
+PROP-9959,3,3,2291,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19097776,8336
+PROP-9960,3,4,1662,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14058858,8459
+PROP-9961,3,4,1613,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18359166,11382
+PROP-9962,3,3,2511,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,25712640,10240
+PROP-9963,2,2,1389,Fully Furnished,No,Yes,No,No,Covered,Yes,No,9374361,6749
+PROP-9964,3,4,2382,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23581800,9900
+PROP-9965,4,5,2842,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,32918886,11583
+PROP-9966,1,2,653,Semi-Furnished,No,Yes,No,Yes,,Yes,Yes,5573355,8535
+PROP-9967,4,4,4178,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,40209072,9624
+PROP-9968,3,3,2061,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,15566733,7553
+PROP-9969,2,2,1229,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9693123,7887
+PROP-9970,4,5,4094,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,48047184,11736
+PROP-9971,2,2,1048,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,8884944,8478
+PROP-9972,2,2,1346,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16589450,12325
+PROP-9973,5,6,6935,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,65279155,9413
+PROP-9974,2,2,964,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9096304,9436
+PROP-9975,2,2,1278,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,15511086,12137
+PROP-9976,2,2,1365,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,17716335,12979
+PROP-9977,4,5,4029,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,48783132,12108
+PROP-9978,3,3,2430,Unfurnished,No,Yes,No,No,Open,Yes,Yes,20732760,8532
+PROP-9979,4,4,3962,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,51878428,13094
+PROP-9980,3,3,2580,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,27817560,10782
+PROP-9981,4,4,4239,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,46446723,10957
+PROP-9982,4,4,4600,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,50443600,10966
+PROP-9983,5,5,7550,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,64937550,8601
+PROP-9984,3,4,1981,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,20212143,10203
+PROP-9985,3,3,1627,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13282828,8164
+PROP-9986,1,2,636,Fully Furnished,No,Yes,No,No,,Yes,Yes,7490808,11778
+PROP-9987,2,2,1353,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,11210958,8286
+PROP-9988,1,1,490,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,3833270,7823
+PROP-9989,3,3,2537,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,27754780,10940
+PROP-9990,4,4,4940,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,58771180,11897
+PROP-9991,4,5,4108,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,56181008,13676
+PROP-9992,4,4,4260,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,40823580,9583
+PROP-9993,3,3,1809,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17668503,9767
+PROP-9994,4,4,3829,Semi-Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,46721458,12202
+PROP-9995,1,1,775,Unfurnished,No,Yes,No,No,,Yes,Yes,6280600,8104
+PROP-9996,4,4,3536,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,45441136,12851
+PROP-9997,1,1,650,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,5783700,8898
+PROP-9998,3,3,1826,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,15873418,8693
+PROP-9999,3,4,2341,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,13779126,5886
+PROP-10000,4,4,3084,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,32375832,10498
+PROP-10001,4,5,3763,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,37874595,10065
+PROP-10002,5,5,5812,Semi-Furnished,Yes,Yes,No,No,Private Garage,No,Yes,78043536,13428
+PROP-10003,3,3,1698,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,21831186,12857
+PROP-10004,3,3,1645,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,22552950,13710
+PROP-10005,3,3,2308,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,26950516,11677
+PROP-10006,4,5,3944,Semi-Furnished,Yes,No,No,No,Covered,Yes,Yes,47552808,12057
+PROP-10007,3,3,2373,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,18516519,7803
+PROP-10008,2,2,1078,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,No,9446514,8763
+PROP-10009,2,2,1107,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,No,12102831,10933
+PROP-10010,2,3,1382,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,11242570,8135
+PROP-10011,3,3,2345,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16663570,7106
+PROP-10012,3,3,2429,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,29288882,12058
+PROP-10013,5,5,9304,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,83791824,9006
+PROP-10014,3,3,2479,Semi-Furnished,No,No,No,Yes,Covered,Yes,No,16495266,6654
+PROP-10015,4,4,3097,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,37922765,12245
+PROP-10016,3,3,2179,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18669672,8568
+PROP-10017,3,4,1930,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,23258430,12051
+PROP-10018,4,5,4331,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,43461585,10035
+PROP-10019,3,4,2092,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,22124992,10576
+PROP-10020,3,3,2328,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,24062208,10336
+PROP-10021,2,2,977,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,10439245,10685
+PROP-10022,4,4,3992,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,46538736,11658
+PROP-10023,2,2,1421,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15464743,10883
+PROP-10024,1,1,777,Fully Furnished,No,No,Yes,Yes,,Yes,Yes,10038840,12920
+PROP-10025,1,1,717,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,6190578,8634
+PROP-10026,1,1,648,Unfurnished,Yes,Yes,No,Yes,,Yes,Yes,5991408,9246
+PROP-10027,2,2,1209,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9709479,8031
+PROP-10028,3,4,1866,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,21027954,11269
+PROP-10029,1,1,736,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6966976,9466
+PROP-10030,2,2,1335,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11801400,8840
+PROP-10031,3,4,2526,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,29859846,11821
+PROP-10032,1,1,617,Unfurnished,No,Yes,No,Yes,,Yes,Yes,6112619,9907
+PROP-10033,3,3,2160,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,19459440,9009
+PROP-10034,2,3,1080,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,9578520,8869
+PROP-10035,4,4,4293,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,42535044,9908
+PROP-10036,2,2,1011,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7973757,7887
+PROP-10037,4,4,3763,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,Yes,38017589,10103
+PROP-10038,3,4,2456,Semi-Furnished,No,No,No,No,Open,Yes,Yes,17896872,7287
+PROP-10039,3,4,2548,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,23095072,9064
+PROP-10040,3,4,2374,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,24464070,10305
+PROP-10041,3,4,2401,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,28146923,11723
+PROP-10042,3,3,1639,Unfurnished,No,Yes,No,No,Open,Yes,Yes,10745284,6556
+PROP-10043,3,4,2230,Unfurnished,No,Yes,No,No,Open,Yes,Yes,15427140,6918
+PROP-10044,5,5,5582,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,52816884,9462
+PROP-10045,2,2,1378,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10868286,7887
+PROP-10046,3,3,1809,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,19444941,10749
+PROP-10047,2,2,1143,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,10522458,9206
+PROP-10048,3,4,1731,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18575361,10731
+PROP-10049,4,5,4911,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,53863848,10968
+PROP-10050,3,4,2207,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22374566,10138
+PROP-10051,1,1,617,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,5790545,9385
+PROP-10052,2,2,982,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11908714,12127
+PROP-10053,2,2,1176,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,12981864,11039
+PROP-10054,3,3,2560,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,26544640,10369
+PROP-10055,1,1,596,Unfurnished,No,Yes,No,No,Open,Yes,Yes,5485584,9204
+PROP-10056,2,2,1282,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10962382,8551
+PROP-10057,2,2,1013,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12014180,11860
+PROP-10058,3,4,2256,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16725984,7414
+PROP-10059,3,4,2518,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,27922102,11089
+PROP-10060,5,5,9853,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,93258645,9465
+PROP-10061,1,1,663,Unfurnished,No,Yes,No,No,Open,Yes,Yes,5040126,7602
+PROP-10062,1,2,549,Unfurnished,No,Yes,No,Yes,Open,Yes,No,3312117,6033
+PROP-10063,5,5,8597,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,105287459,12247
+PROP-10064,4,5,4545,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,45509085,10013
+PROP-10065,2,3,1079,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13028925,12075
+PROP-10066,2,2,1420,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12405120,8736
+PROP-10067,4,4,4550,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,49686000,10920
+PROP-10068,3,3,2295,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23326380,10164
+PROP-10069,2,2,1055,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,8950620,8484
+PROP-10070,3,4,2493,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,29060901,11657
+PROP-10071,2,3,1001,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,10941931,10931
+PROP-10072,2,2,1446,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18599898,12863
+PROP-10073,2,2,1223,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12757113,10431
+PROP-10074,3,3,2465,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,29676135,12039
+PROP-10075,1,2,700,Semi-Furnished,Yes,No,No,No,Open,Yes,No,7003500,10005
+PROP-10076,4,4,4534,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,50599440,11160
+PROP-10077,1,1,680,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,6625240,9743
+PROP-10078,2,2,1106,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13266470,11995
+PROP-10079,1,2,646,Unfurnished,No,Yes,No,Yes,,Yes,Yes,6377312,9872
+PROP-10080,2,2,956,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9191940,9615
+PROP-10081,1,1,698,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,7310852,10474
+PROP-10082,5,6,8503,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,80004727,9409
+PROP-10083,4,5,3187,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,31487560,9880
+PROP-10084,3,3,2330,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,20643800,8860
+PROP-10085,4,4,4167,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,53962650,12950
+PROP-10086,4,4,2986,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,40155728,13448
+PROP-10087,5,6,8480,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,124070880,14631
+PROP-10088,3,3,2011,Unfurnished,No,No,No,No,Open,Yes,Yes,17364985,8635
+PROP-10089,4,4,4597,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,60220700,13100
+PROP-10090,3,4,1964,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,18426248,9382
+PROP-10091,2,2,1279,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14896513,11647
+PROP-10092,3,3,1629,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14727789,9041
+PROP-10093,2,3,943,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10296617,10919
+PROP-10094,4,4,3212,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,37795604,11767
+PROP-10095,5,6,5904,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,64873152,10988
+PROP-10096,2,2,1034,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11325402,10953
+PROP-10097,2,3,1034,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,No,12574474,12161
+PROP-10098,3,4,2032,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,20813776,10243
+PROP-10099,5,6,9470,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,132570530,13999
+PROP-10100,4,5,4660,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,37755320,8102
+PROP-10101,3,4,1660,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,17371900,10465
+PROP-10102,3,3,2413,Unfurnished,No,No,No,No,Covered,Yes,Yes,25794970,10690
+PROP-10103,4,5,3546,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,37789722,10657
+PROP-10104,2,3,1442,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,No,11302396,7838
+PROP-10105,2,2,928,Semi-Furnished,Yes,Yes,No,No,Open,Yes,No,5925280,6385
+PROP-10106,5,6,6907,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,91013539,13177
+PROP-10107,3,4,2001,Fully Furnished,No,No,No,Yes,Open,Yes,Yes,18629310,9310
+PROP-10108,3,3,1781,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,19195618,10778
+PROP-10109,3,3,2297,Fully Furnished,Yes,No,No,Yes,Covered,Yes,Yes,27763839,12087
+PROP-10110,3,4,2257,Unfurnished,No,No,No,No,Open,Yes,Yes,14927798,6614
+PROP-10111,1,2,665,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6229055,9367
+PROP-10112,2,2,1175,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10947475,9317
+PROP-10113,3,4,1551,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,15736446,10146
+PROP-10114,4,4,3054,Semi-Furnished,Yes,Yes,No,No,Private Garage,No,Yes,38941554,12751
+PROP-10115,3,3,1603,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,15603602,9734
+PROP-10116,2,2,1074,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10865658,10117
+PROP-10117,4,4,3374,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,43588706,12919
+PROP-10118,1,2,814,Semi-Furnished,Yes,Yes,No,Yes,,Yes,Yes,6387458,7847
+PROP-10119,3,3,2297,Unfurnished,No,No,No,Yes,Covered,No,Yes,21265626,9258
+PROP-10120,3,4,2499,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17000697,6803
+PROP-10121,3,3,1611,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,18188190,11290
+PROP-10122,4,5,4017,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,41732613,10389
+PROP-10123,2,3,955,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9184235,9617
+PROP-10124,5,6,7203,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,85391565,11855
+PROP-10125,1,1,800,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,8153600,10192
+PROP-10126,1,1,844,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,7781680,9220
+PROP-10127,3,3,1796,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,14260240,7940
+PROP-10128,2,3,1020,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,8750580,8579
+PROP-10129,2,3,1007,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,10704410,10630
+PROP-10130,5,6,6495,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,89585535,13793
+PROP-10131,2,2,1213,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12142130,10010
+PROP-10132,3,4,2021,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,16186189,8009
+PROP-10133,4,4,3202,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,34098098,10649
+PROP-10134,4,4,4650,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,62909850,13529
+PROP-10135,3,3,2176,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,24458240,11240
+PROP-10136,3,3,1854,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19619028,10582
+PROP-10137,4,4,3140,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,32389100,10315
+PROP-10138,4,5,4545,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,37241730,8194
+PROP-10139,3,3,1825,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14716800,8064
+PROP-10140,3,4,2277,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,24074721,10573
+PROP-10141,3,4,2463,Unfurnished,No,No,No,No,Covered,Yes,Yes,18408462,7474
+PROP-10142,4,4,4514,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,41587482,9213
+PROP-10143,3,3,1919,Fully Furnished,No,No,No,No,Covered,Yes,Yes,19328168,10072
+PROP-10144,4,5,4219,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,50632219,12001
+PROP-10145,1,1,782,Unfurnished,No,No,No,Yes,Open,Yes,Yes,7393028,9454
+PROP-10146,1,1,839,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,8438662,10058
+PROP-10147,4,4,3870,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,45302220,11706
+PROP-10148,2,2,1416,Unfurnished,No,No,No,No,Open,Yes,Yes,11952456,8441
+PROP-10149,2,2,1360,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13657120,10042
+PROP-10150,1,1,791,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7437773,9403
+PROP-10151,3,3,1820,Unfurnished,No,Yes,No,No,Open,Yes,Yes,15004080,8244
+PROP-10152,3,4,2429,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,22065036,9084
+PROP-10153,2,2,1405,Semi-Furnished,No,No,No,No,Open,Yes,Yes,9428955,6711
+PROP-10154,2,2,902,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,9847134,10917
+PROP-10155,1,1,462,Fully Furnished,No,Yes,No,No,,Yes,Yes,3627162,7851
+PROP-10156,3,4,2189,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18634957,8513
+PROP-10157,3,3,1806,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,17352048,9608
+PROP-10158,2,3,1084,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12290392,11338
+PROP-10159,3,3,2062,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,17852796,8658
+PROP-10160,4,4,4980,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,57703260,11587
+PROP-10161,2,2,1129,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14445555,12795
+PROP-10162,2,3,1379,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14578788,10572
+PROP-10163,3,4,1874,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19249728,10272
+PROP-10164,3,3,2199,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,17453463,7937
+PROP-10165,4,4,4474,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,59110488,13212
+PROP-10166,3,3,1815,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,15500100,8540
+PROP-10167,3,4,2153,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,21052034,9778
+PROP-10168,2,2,1299,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,11707887,9013
+PROP-10169,4,4,3550,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,39855850,11227
+PROP-10170,1,1,503,Fully Furnished,Yes,Yes,No,No,,Yes,Yes,6550569,13023
+PROP-10171,3,3,2012,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,19804116,9843
+PROP-10172,2,3,1113,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10111605,9085
+PROP-10173,4,5,4063,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,38411602,9454
+PROP-10174,3,3,2464,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,18450432,7488
+PROP-10175,3,4,2476,Unfurnished,No,Yes,Yes,Yes,Open,No,Yes,25547368,10318
+PROP-10176,4,5,4579,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,52502814,11466
+PROP-10177,3,3,2250,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,17007750,7559
+PROP-10178,2,2,930,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,7349790,7903
+PROP-10179,4,4,4141,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,No,33687035,8135
+PROP-10180,3,4,2520,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,No,17372880,6894
+PROP-10181,2,3,1097,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11556895,10535
+PROP-10182,5,6,7324,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,76264812,10413
+PROP-10183,2,3,1422,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,13059648,9184
+PROP-10184,3,3,2086,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,17920826,8591
+PROP-10185,1,1,785,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,7231420,9212
+PROP-10186,5,6,9755,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,106719700,10940
+PROP-10187,1,1,767,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,8357232,10896
+PROP-10188,1,1,843,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,6561069,7783
+PROP-10189,3,3,1958,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,20118450,10275
+PROP-10190,3,3,2533,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,30226289,11933
+PROP-10191,2,2,987,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,7912779,8017
+PROP-10192,3,3,2364,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,29240316,12369
+PROP-10193,3,3,2433,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,18322923,7531
+PROP-10194,2,2,1333,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,17662250,13250
+PROP-10195,3,4,1838,Semi-Furnished,No,Yes,Yes,Yes,Open,No,No,10314856,5612
+PROP-10196,4,5,3087,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42964866,13918
+PROP-10197,4,4,3192,Unfurnished,Yes,Yes,No,No,Covered,Yes,No,28182168,8829
+PROP-10198,1,2,759,Unfurnished,No,Yes,No,No,Open,No,Yes,5660622,7458
+PROP-10199,2,2,1300,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10355800,7966
+PROP-10200,4,4,3802,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,33917642,8921
+PROP-10201,2,2,1313,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15201914,11578
+PROP-10202,3,4,2533,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,22219476,8772
+PROP-10203,2,3,1097,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,9792919,8927
+PROP-10204,3,3,2165,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19015195,8783
+PROP-10205,4,4,3590,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,44340090,12351
+PROP-10206,4,4,3401,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,42107781,12381
+PROP-10207,3,3,2248,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,18208800,8100
+PROP-10208,4,5,2875,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,25754250,8958
+PROP-10209,2,3,1276,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15823676,12401
+PROP-10210,1,2,608,Fully Furnished,No,Yes,No,Yes,Open,No,Yes,4765504,7838
+PROP-10211,1,1,552,Unfurnished,No,No,Yes,Yes,,Yes,Yes,5269392,9546
+PROP-10212,2,3,1010,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7242710,7171
+PROP-10213,4,4,3241,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,36376984,11224
+PROP-10214,2,3,1326,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16362840,12340
+PROP-10215,3,3,1601,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,16789687,10487
+PROP-10216,4,4,3687,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,42345195,11485
+PROP-10217,4,4,3316,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,27645492,8337
+PROP-10218,2,3,1252,Semi-Furnished,No,No,No,No,Open,Yes,Yes,11219172,8961
+PROP-10219,5,5,7668,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,No,67647096,8822
+PROP-10220,2,3,1240,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,13301480,10727
+PROP-10221,2,3,901,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10369609,11509
+PROP-10222,3,3,2287,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,22273093,9739
+PROP-10223,3,4,2083,Unfurnished,No,Yes,No,No,Covered,Yes,No,19626026,9422
+PROP-10224,4,5,4905,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,63578610,12962
+PROP-10225,2,3,952,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9751336,10243
+PROP-10226,2,2,979,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,7312151,7469
+PROP-10227,3,3,2047,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,21888571,10693
+PROP-10228,3,4,1826,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,19456030,10655
+PROP-10229,2,2,1294,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,No,8282894,6401
+PROP-10230,1,1,763,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,6337478,8306
+PROP-10231,1,1,713,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,8462597,11869
+PROP-10232,4,5,4389,Semi-Furnished,Yes,No,No,No,Covered,Yes,Yes,35616735,8115
+PROP-10233,1,2,556,Unfurnished,No,Yes,No,No,Open,Yes,No,4278976,7696
+PROP-10234,3,3,1932,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17420844,9017
+PROP-10235,2,2,1079,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,12523953,11607
+PROP-10236,3,4,2103,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15145806,7202
+PROP-10237,1,1,544,Semi-Furnished,No,No,No,No,Open,Yes,Yes,5094560,9365
+PROP-10238,3,3,2592,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,24808032,9571
+PROP-10239,3,4,2200,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,22891000,10405
+PROP-10240,3,4,1881,Unfurnished,No,Yes,No,No,Open,Yes,Yes,15984738,8498
+PROP-10241,3,4,2189,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,20408047,9323
+PROP-10242,3,4,1997,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,15854183,7939
+PROP-10243,2,3,1214,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,13173114,10851
+PROP-10244,3,3,1822,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19814250,10875
+PROP-10245,3,3,2471,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,23291646,9426
+PROP-10246,4,4,3987,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,57592215,14445
+PROP-10247,1,2,507,Unfurnished,No,Yes,No,No,,Yes,Yes,3690453,7279
+PROP-10248,1,1,697,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,5319504,7632
+PROP-10249,2,2,1211,Unfurnished,No,Yes,No,Yes,Covered,No,Yes,11526298,9518
+PROP-10250,3,3,2396,Fully Furnished,No,Yes,Yes,Yes,Covered,No,Yes,23135776,9656
+PROP-10251,4,5,4823,Fully Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,58657326,12162
+PROP-10252,2,3,1428,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,16816128,11776
+PROP-10253,4,4,3969,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,52140753,13137
+PROP-10254,4,4,2894,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,38866420,13430
+PROP-10255,2,3,950,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,10937350,11513
+PROP-10256,5,5,7178,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,72181968,10056
+PROP-10257,2,2,1316,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,13714036,10421
+PROP-10258,3,3,2147,Semi-Furnished,No,Yes,Yes,Yes,Open,No,Yes,24971757,11631
+PROP-10259,4,4,3228,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,38677896,11982
+PROP-10260,2,2,1367,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,13983043,10229
+PROP-10261,3,4,1981,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,22298136,11256
+PROP-10262,2,3,1079,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,10787842,9998
+PROP-10263,2,2,1066,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,10151518,9523
+PROP-10264,5,5,7709,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,81052426,10514
+PROP-10265,2,3,903,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7472325,8275
+PROP-10266,3,3,2408,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,20990536,8717
+PROP-10267,5,5,8305,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,96005800,11560
+PROP-10268,3,4,2345,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,24240265,10337
+PROP-10269,2,3,1170,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,14188590,12127
+PROP-10270,3,4,1669,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,19327020,11580
+PROP-10271,2,3,1083,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10737945,9915
+PROP-10272,4,5,4828,Unfurnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,66370516,13747
+PROP-10273,2,3,1377,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,12943800,9400
+PROP-10274,2,2,933,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9905661,10617
+PROP-10275,4,4,3283,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,35134666,10702
+PROP-10276,3,4,1886,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,20097216,10656
+PROP-10277,3,3,2090,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,20743250,9925
+PROP-10278,2,2,1275,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9548475,7489
+PROP-10279,4,5,4360,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,42274560,9696
+PROP-10280,1,1,668,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,6229100,9325
+PROP-10281,3,3,1891,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,18240586,9646
+PROP-10282,5,5,7746,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,75965022,9807
+PROP-10283,1,1,657,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,5482665,8345
+PROP-10284,1,1,622,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,7352662,11821
+PROP-10285,3,3,1848,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,20178312,10919
+PROP-10286,5,6,9513,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,127150758,13366
+PROP-10287,4,4,3764,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,46327312,12308
+PROP-10288,2,2,1099,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11425204,10396
+PROP-10289,3,4,1598,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,18647062,11669
+PROP-10290,5,6,7152,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,80266896,11223
+PROP-10291,4,4,3156,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,41299416,13086
+PROP-10292,4,5,3518,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,43728740,12430
+PROP-10293,2,2,1028,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10030196,9757
+PROP-10294,4,5,4730,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,54447030,11511
+PROP-10295,5,5,5708,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,59699972,10459
+PROP-10296,3,4,1912,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,17617168,9214
+PROP-10297,2,3,1037,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12395261,11953
+PROP-10298,2,3,998,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,7775418,7791
+PROP-10299,1,1,623,Fully Furnished,No,Yes,No,No,Open,Yes,No,5209526,8362
+PROP-10300,4,5,4541,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,57448191,12651
+PROP-10301,4,4,4463,Semi-Furnished,Yes,Yes,No,No,Covered,No,Yes,43906994,9838
+PROP-10302,5,6,5531,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,65265800,11800
+PROP-10303,5,5,8865,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,99270270,11198
+PROP-10304,3,3,2411,Fully Furnished,No,Yes,No,No,Covered,Yes,No,23092558,9578
+PROP-10305,3,3,1926,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,19202220,9970
+PROP-10306,2,2,1175,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,12832175,10921
+PROP-10307,2,2,1380,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12384120,8974
+PROP-10308,5,6,9428,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,Yes,102812340,10905
+PROP-10309,2,3,1364,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,16021544,11746
+PROP-10310,3,4,2520,Unfurnished,Yes,Yes,No,Yes,Covered,No,Yes,24575040,9752
+PROP-10311,5,5,7344,Unfurnished,Yes,Yes,No,No,Private Garage,No,No,65993184,8986
+PROP-10312,5,6,8352,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,91796832,10991
+PROP-10313,5,5,6862,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,57414354,8367
+PROP-10314,2,2,1160,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10289200,8870
+PROP-10315,3,3,1754,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18769554,10701
+PROP-10316,2,3,1154,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13839922,11993
+PROP-10317,3,4,2340,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,26594100,11365
+PROP-10318,4,4,3770,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,49273900,13070
+PROP-10319,5,5,6926,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,88618170,12795
+PROP-10320,2,2,1357,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,13010916,9588
+PROP-10321,4,4,4652,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,No,32833816,7058
+PROP-10322,3,4,2294,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,23075346,10059
+PROP-10323,2,2,1178,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13551712,11504
+PROP-10324,3,3,1667,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,18415349,11047
+PROP-10325,3,4,2593,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,28476326,10982
+PROP-10326,3,3,2182,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,23604876,10818
+PROP-10327,3,3,2598,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25346088,9756
+PROP-10328,3,3,2412,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,24211656,10038
+PROP-10329,4,4,4202,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,53705762,12781
+PROP-10330,3,3,2239,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,27723298,12382
+PROP-10331,3,3,2216,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,18607752,8397
+PROP-10332,2,2,1021,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,No,9993548,9788
+PROP-10333,3,4,2187,Unfurnished,No,No,No,Yes,Open,Yes,Yes,22902264,10472
+PROP-10334,3,3,1590,Unfurnished,No,No,No,No,Covered,Yes,Yes,16881030,10617
+PROP-10335,3,3,2206,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,21435702,9717
+PROP-10336,1,2,566,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,6059030,10705
+PROP-10337,2,3,953,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,9211698,9666
+PROP-10338,1,1,605,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,5527885,9137
+PROP-10339,2,2,1092,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12324312,11286
+PROP-10340,5,6,6617,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,88628098,13394
+PROP-10341,2,2,943,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9390394,9958
+PROP-10342,4,4,3843,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,48348783,12581
+PROP-10343,5,6,9475,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,91405325,9647
+PROP-10344,5,5,9218,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,81606954,8853
+PROP-10345,4,4,4576,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,68543904,14979
+PROP-10346,5,5,6429,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,No,59333241,9229
+PROP-10347,5,5,8769,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,122625696,13984
+PROP-10348,3,4,2282,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,19428948,8514
+PROP-10349,3,4,2353,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,18520463,7871
+PROP-10350,2,2,1253,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,16572178,13226
+PROP-10351,2,2,1147,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,11533085,10055
+PROP-10352,2,2,1088,Semi-Furnished,No,No,No,No,Open,Yes,Yes,9745216,8957
+PROP-10353,3,4,1900,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,18017700,9483
+PROP-10354,3,4,2181,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,28571100,13100
+PROP-10355,4,4,3573,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,40364181,11297
+PROP-10356,2,3,1442,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,12083960,8380
+PROP-10357,3,4,1688,Unfurnished,No,No,No,No,Covered,Yes,Yes,16333088,9676
+PROP-10358,5,5,6437,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,63095474,9802
+PROP-10359,3,3,1874,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,21749644,11606
+PROP-10360,2,3,1112,Unfurnished,No,Yes,No,No,Covered,Yes,No,8751440,7870
+PROP-10361,2,3,1075,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9476125,8815
+PROP-10362,4,4,3652,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,43301764,11857
+PROP-10363,5,5,9661,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,127216048,13168
+PROP-10364,3,4,1790,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18784260,10494
+PROP-10365,4,5,4332,Fully Furnished,Yes,Yes,No,Yes,Private Garage,No,Yes,44714904,10322
+PROP-10366,2,3,1168,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11977840,10255
+PROP-10367,3,4,2348,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,19171420,8165
+PROP-10368,4,5,3466,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,31547532,9102
+PROP-10369,2,2,1188,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,9248580,7785
+PROP-10370,4,5,4700,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,53387300,11359
+PROP-10371,2,2,1146,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10021770,8745
+PROP-10372,3,4,2263,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22059724,9748
+PROP-10373,2,3,945,Unfurnished,No,Yes,No,No,Open,Yes,Yes,8365140,8852
+PROP-10374,4,4,3659,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,33381057,9123
+PROP-10375,2,2,1229,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11803316,9604
+PROP-10376,1,1,765,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7368480,9632
+PROP-10377,2,3,1206,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14019750,11625
+PROP-10378,2,3,1376,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12375744,8994
+PROP-10379,3,3,2466,Semi-Furnished,No,No,No,No,Open,Yes,Yes,24147072,9792
+PROP-10380,1,1,750,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,8033250,10711
+PROP-10381,4,5,4274,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,48621024,11376
+PROP-10382,4,4,3252,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,40292280,12390
+PROP-10383,3,3,1804,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,16403772,9093
+PROP-10384,5,5,8643,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,104882805,12135
+PROP-10385,5,5,7141,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,72038408,10088
+PROP-10386,3,3,2569,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,24374672,9488
+PROP-10387,2,2,1233,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11346066,9202
+PROP-10388,3,3,1751,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,18733949,10699
+PROP-10389,3,4,1902,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,17040018,8959
+PROP-10390,4,5,4810,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,53929720,11212
+PROP-10391,4,5,3991,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,49037417,12287
+PROP-10392,2,3,999,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,9544446,9554
+PROP-10393,3,3,1979,Semi-Furnished,Yes,No,No,No,Open,Yes,Yes,20423280,10320
+PROP-10394,3,3,2569,Unfurnished,No,No,No,Yes,Open,Yes,Yes,18417161,7169
+PROP-10395,3,4,1869,Fully Furnished,No,Yes,No,No,Open,No,Yes,15806133,8457
+PROP-10396,2,2,954,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,11108376,11644
+PROP-10397,2,2,1245,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10655955,8559
+PROP-10398,3,4,2041,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,14738061,7221
+PROP-10399,3,3,1719,Fully Furnished,No,No,No,Yes,Covered,Yes,Yes,20279043,11797
+PROP-10400,2,3,1050,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,11936400,11368
+PROP-10401,4,4,3853,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,52655098,13666
+PROP-10402,2,2,1271,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13143411,10341
+PROP-10403,2,2,1134,Unfurnished,No,No,No,No,Open,Yes,Yes,9449622,8333
+PROP-10404,4,4,4844,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,61107060,12615
+PROP-10405,3,3,2064,Unfurnished,Yes,Yes,No,No,Open,No,Yes,24596688,11917
+PROP-10406,3,4,1750,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,13573000,7756
+PROP-10407,3,3,2539,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,27256165,10735
+PROP-10408,2,2,1063,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,10523700,9900
+PROP-10409,5,6,6217,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,84470379,13587
+PROP-10410,2,2,1428,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,16807560,11770
+PROP-10411,4,4,3763,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,44704440,11880
+PROP-10412,2,3,1092,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10499580,9615
+PROP-10413,1,1,739,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6548279,8861
+PROP-10414,4,4,3131,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,38079222,12162
+PROP-10415,1,1,790,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,8990200,11380
+PROP-10416,2,3,1071,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9621864,8984
+PROP-10417,4,4,4860,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,46680300,9605
+PROP-10418,3,3,1707,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,22255866,13038
+PROP-10419,3,4,2422,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,17365740,7170
+PROP-10420,4,4,4396,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,53248748,12113
+PROP-10421,1,1,459,Unfurnished,No,Yes,No,No,Open,Yes,Yes,4768551,10389
+PROP-10422,5,6,7712,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,101944928,13219
+PROP-10423,1,2,474,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,5871438,12387
+PROP-10424,5,6,6427,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,54828737,8531
+PROP-10425,2,3,1351,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,11228161,8311
+PROP-10426,4,5,3454,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,No,Yes,45416646,13149
+PROP-10427,2,2,1342,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,15712136,11708
+PROP-10428,5,5,7811,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,89623414,11474
+PROP-10429,3,4,1807,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17912791,9913
+PROP-10430,5,6,6860,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,70699160,10306
+PROP-10431,2,2,1445,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,No,8998015,6227
+PROP-10432,3,4,2597,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,30932867,11911
+PROP-10433,2,2,1279,Unfurnished,No,Yes,No,No,Open,Yes,Yes,10985331,8589
+PROP-10434,1,2,796,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,6303524,7919
+PROP-10435,3,3,2243,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,24284961,10827
+PROP-10436,2,2,1282,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,10477786,8173
+PROP-10437,3,3,1986,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14904930,7505
+PROP-10438,4,4,4655,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,56814275,12205
+PROP-10439,1,1,620,Fully Furnished,Yes,Yes,No,No,,Yes,Yes,6005940,9687
+PROP-10440,2,2,1127,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13977054,12402
+PROP-10441,2,3,1008,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,8628480,8560
+PROP-10442,2,2,1397,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9309608,6664
+PROP-10443,1,2,658,Semi-Furnished,No,Yes,No,Yes,,Yes,No,3269602,4969
+PROP-10444,2,2,1443,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11870118,8226
+PROP-10445,1,2,489,Unfurnished,No,Yes,No,No,,Yes,Yes,5016651,10259
+PROP-10446,3,3,2525,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,27840650,11026
+PROP-10447,3,3,2397,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,20427234,8522
+PROP-10448,1,1,478,Unfurnished,No,Yes,No,No,,Yes,Yes,3140938,6571
+PROP-10449,2,3,1246,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9449664,7584
+PROP-10450,3,4,2360,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,19651720,8327
+PROP-10451,4,4,3079,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,41039991,13329
+PROP-10452,5,5,9744,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,No,Yes,103773600,10650
+PROP-10453,1,1,847,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,7204582,8506
+PROP-10454,5,5,8198,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,93137478,11361
+PROP-10455,4,5,4138,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,42853128,10356
+PROP-10456,5,6,6185,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,74306590,12014
+PROP-10457,3,3,2223,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21480849,9663
+PROP-10458,2,3,1132,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,7536856,6658
+PROP-10459,1,2,496,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,5993664,12084
+PROP-10460,4,4,4693,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,50210407,10699
+PROP-10461,3,4,2162,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20820060,9630
+PROP-10462,3,4,1870,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,18335350,9805
+PROP-10463,4,4,4499,Semi-Furnished,Yes,Yes,No,No,Private Garage,No,No,43167905,9595
+PROP-10464,5,6,9283,Fully Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,120883226,13022
+PROP-10465,2,3,1414,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13851544,9796
+PROP-10466,5,5,9337,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,108299863,11599
+PROP-10467,4,4,3986,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,33195408,8328
+PROP-10468,2,3,1207,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9547370,7910
+PROP-10469,5,6,7538,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,69236530,9185
+PROP-10470,4,4,4501,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,44609411,9911
+PROP-10471,4,4,2802,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,31082586,11093
+PROP-10472,3,3,1566,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,16468056,10516
+PROP-10473,4,5,4248,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,56570616,13317
+PROP-10474,2,2,965,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,7226885,7489
+PROP-10475,4,5,2957,Fully Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,37598255,12715
+PROP-10476,2,3,1370,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11706650,8545
+PROP-10477,3,3,1904,Semi-Furnished,No,No,No,No,Open,Yes,Yes,13743072,7218
+PROP-10478,2,3,962,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,5667142,5891
+PROP-10479,2,2,1090,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,No,8855160,8124
+PROP-10480,4,5,3614,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,46118254,12761
+PROP-10481,3,4,2190,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,26065380,11902
+PROP-10482,4,5,4881,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,52875873,10833
+PROP-10483,5,6,8324,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,97881916,11759
+PROP-10484,3,3,1792,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,16731904,9337
+PROP-10485,3,3,2328,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,20896128,8976
+PROP-10486,5,5,5568,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,60362688,10841
+PROP-10487,4,5,4312,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,47600168,11039
+PROP-10488,2,3,1401,Unfurnished,Yes,No,No,Yes,Open,Yes,Yes,13013889,9289
+PROP-10489,2,3,1045,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10921295,10451
+PROP-10490,2,2,1387,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9656294,6962
+PROP-10491,5,5,7782,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,93726408,12044
+PROP-10492,3,3,1957,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,23875400,12200
+PROP-10493,3,3,2524,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23523680,9320
+PROP-10494,1,1,833,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,8471610,10170
+PROP-10495,5,5,9743,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,104084469,10683
+PROP-10496,1,1,494,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,3613116,7314
+PROP-10497,3,4,1570,Fully Furnished,No,No,Yes,Yes,Open,Yes,Yes,17686050,11265
+PROP-10498,4,5,3164,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,38989972,12323
+PROP-10499,5,6,7883,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,103283066,13102
+PROP-10500,3,3,2473,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,24534633,9921
+PROP-10501,3,4,2050,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19499600,9512
+PROP-10502,1,1,630,Semi-Furnished,No,Yes,No,Yes,Open,No,Yes,5831910,9257
+PROP-10503,1,1,645,Semi-Furnished,No,No,No,No,Open,Yes,No,5156130,7994
+PROP-10504,1,2,712,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,4683536,6578
+PROP-10505,3,4,1919,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,19779133,10307
+PROP-10506,3,3,1652,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,16313500,9875
+PROP-10507,3,3,1991,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,18846806,9466
+PROP-10508,5,5,6553,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,71853645,10965
+PROP-10509,3,3,1760,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,18258240,10374
+PROP-10510,2,2,1241,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14240475,11475
+PROP-10511,2,2,1399,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10418353,7447
+PROP-10512,2,3,1400,Fully Furnished,No,Yes,No,Yes,Covered,Yes,No,12922000,9230
+PROP-10513,1,1,515,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,5325100,10340
+PROP-10514,1,2,723,Fully Furnished,Yes,Yes,Yes,Yes,,Yes,No,6954537,9619
+PROP-10515,4,5,3626,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,42670768,11768
+PROP-10516,3,3,2155,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,20866865,9683
+PROP-10517,3,3,1912,Unfurnished,No,Yes,No,No,Covered,Yes,No,10185224,5327
+PROP-10518,4,5,3692,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,49723856,13468
+PROP-10519,3,3,2406,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,21269040,8840
+PROP-10520,2,3,1247,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9861276,7908
+PROP-10521,3,3,1827,Fully Furnished,No,No,No,No,Open,Yes,Yes,14705523,8049
+PROP-10522,4,4,3001,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,No,Yes,41173720,13720
+PROP-10523,2,2,934,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12008438,12857
+PROP-10524,2,2,912,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,10314720,11310
+PROP-10525,3,4,2544,Unfurnished,No,No,No,No,Covered,Yes,Yes,26088720,10255
+PROP-10526,2,2,1268,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15479744,12208
+PROP-10527,3,3,2266,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19283660,8510
+PROP-10528,2,2,1369,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,13067105,9545
+PROP-10529,3,3,2275,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,26481000,11640
+PROP-10530,3,3,2353,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,22529975,9575
+PROP-10531,2,3,1238,Unfurnished,No,No,No,No,Open,Yes,Yes,8445636,6822
+PROP-10532,3,3,2315,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17209710,7434
+PROP-10533,2,2,1327,Fully Furnished,Yes,Yes,Yes,Yes,Open,No,Yes,18065778,13614
+PROP-10534,1,1,555,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,4965585,8947
+PROP-10535,2,2,1100,Semi-Furnished,No,Yes,No,No,Open,Yes,No,8053100,7321
+PROP-10536,3,3,2598,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,29375586,11307
+PROP-10537,5,6,5913,Unfurnished,Yes,Yes,No,No,Covered,Yes,No,44560368,7536
+PROP-10538,2,2,1361,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,12498063,9183
+PROP-10539,1,2,774,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,7525602,9723
+PROP-10540,2,3,1391,Semi-Furnished,No,No,No,No,Open,Yes,Yes,10164037,7307
+PROP-10541,1,2,519,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,5273559,10161
+PROP-10542,5,5,9516,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,118455168,12448
+PROP-10543,3,3,2409,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,26168967,10863
+PROP-10544,2,3,1334,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13497412,10118
+PROP-10545,3,3,2468,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,20501676,8307
+PROP-10546,3,3,2529,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,21033693,8317
+PROP-10547,3,4,1924,Semi-Furnished,No,Yes,No,Yes,Covered,No,Yes,21358324,11101
+PROP-10548,3,4,2137,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,24460102,11446
+PROP-10549,3,3,2172,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,22406352,10316
+PROP-10550,3,4,2324,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,29170848,12552
+PROP-10551,2,2,1235,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11557130,9358
+PROP-10552,2,2,1014,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11479494,11321
+PROP-10553,2,3,1282,Fully Furnished,No,Yes,No,Yes,Covered,No,Yes,12952046,10103
+PROP-10554,1,1,527,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,5401750,10250
+PROP-10555,5,6,9614,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,117627290,12235
+PROP-10556,2,2,1145,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10720635,9363
+PROP-10557,2,3,1100,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,11583000,10530
+PROP-10558,3,3,1980,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19291140,9743
+PROP-10559,2,2,1141,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,10938767,9587
+PROP-10560,5,6,8808,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,84301368,9571
+PROP-10561,3,3,1865,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,21277785,11409
+PROP-10562,4,4,3737,Fully Furnished,Yes,Yes,Yes,Yes,Covered,No,No,41626443,11139
+PROP-10563,3,3,2431,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20787481,8551
+PROP-10564,3,4,2074,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,No,20698520,9980
+PROP-10565,2,3,1440,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14639040,10166
+PROP-10566,1,2,636,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,7560132,11887
+PROP-10567,2,3,1043,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,8261603,7921
+PROP-10568,3,3,2596,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18519864,7134
+PROP-10569,5,6,7689,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,102794241,13369
+PROP-10570,2,2,1229,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13198231,10739
+PROP-10571,2,3,1339,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,8817315,6585
+PROP-10572,2,3,1371,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,11761809,8579
+PROP-10573,3,4,1629,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,20075796,12324
+PROP-10574,4,5,2953,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,34993050,11850
+PROP-10575,2,2,1254,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,14762088,11772
+PROP-10576,2,3,1030,Unfurnished,No,No,No,Yes,Covered,Yes,Yes,7929970,7699
+PROP-10577,5,5,7130,Unfurnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,73724200,10340
+PROP-10578,3,4,2441,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,21597968,8848
+PROP-10579,3,3,1634,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,14668418,8977
+PROP-10580,4,5,3928,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,40085240,10205
+PROP-10581,3,3,2030,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16822610,8287
+PROP-10582,2,2,1094,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,13095180,11970
+PROP-10583,2,2,969,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11621217,11993
+PROP-10584,5,5,7029,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,94448673,13437
+PROP-10585,3,4,2329,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,16836341,7229
+PROP-10586,3,3,2288,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17002128,7431
+PROP-10587,3,3,2320,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23320640,10052
+PROP-10588,3,3,2542,Fully Furnished,No,Yes,No,No,Covered,No,Yes,30994606,12193
+PROP-10589,2,2,942,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,9748758,10349
+PROP-10590,3,4,2483,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23481731,9457
+PROP-10591,3,4,1715,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,17872015,10421
+PROP-10592,3,4,1773,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,16941015,9555
+PROP-10593,2,3,1402,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,17970836,12818
+PROP-10594,3,3,2296,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,16836568,7333
+PROP-10595,1,1,734,Fully Furnished,No,No,No,Yes,,Yes,Yes,5971090,8135
+PROP-10596,5,5,7708,Unfurnished,Yes,Yes,No,No,Covered,No,Yes,65548832,8504
+PROP-10597,5,5,7742,Fully Furnished,Yes,No,No,No,Covered,Yes,No,78558074,10147
+PROP-10598,3,3,1783,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,12108353,6791
+PROP-10599,1,1,636,Semi-Furnished,No,No,No,No,,Yes,Yes,5866464,9224
+PROP-10600,2,2,1308,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,10308348,7881
+PROP-10601,3,4,1821,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,10711122,5882
+PROP-10602,3,4,2189,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,22905696,10464
+PROP-10603,4,5,4277,Unfurnished,Yes,Yes,Yes,Yes,Covered,No,Yes,42320915,9895
+PROP-10604,5,5,6842,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,80393500,11750
+PROP-10605,2,3,1012,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11413336,11278
+PROP-10606,3,3,2109,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,27676407,13123
+PROP-10607,3,3,1606,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,18786988,11698
+PROP-10608,3,3,1663,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,16945970,10190
+PROP-10609,2,3,1029,Semi-Furnished,Yes,No,No,No,Open,Yes,Yes,11410581,11089
+PROP-10610,4,5,4649,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,54695485,11765
+PROP-10611,2,3,1257,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,13257579,10547
+PROP-10612,5,6,9383,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,91493633,9751
+PROP-10613,2,2,1418,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,16766432,11824
+PROP-10614,2,2,1001,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9651642,9642
+PROP-10615,3,3,2506,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,24749256,9876
+PROP-10616,4,4,3080,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,25533200,8290
+PROP-10617,4,4,4666,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,38055896,8156
+PROP-10618,2,3,1266,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,10295112,8132
+PROP-10619,1,1,643,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,5886022,9154
+PROP-10620,1,1,524,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,4739580,9045
+PROP-10621,3,3,2299,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,15069945,6555
+PROP-10622,4,4,3195,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,35819145,11211
+PROP-10623,4,4,4677,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,42266049,9037
+PROP-10624,5,6,6246,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,58593726,9381
+PROP-10625,3,3,1904,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,18598272,9768
+PROP-10626,2,2,1092,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11324040,10370
+PROP-10627,1,1,698,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,8238494,11803
+PROP-10628,3,3,2232,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14566032,6526
+PROP-10629,1,2,486,Unfurnished,No,Yes,No,No,Open,Yes,Yes,4200984,8644
+PROP-10630,2,3,1423,Unfurnished,No,Yes,No,No,Open,Yes,Yes,14202963,9981
+PROP-10631,4,4,3320,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,36978160,11138
+PROP-10632,5,6,6024,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,No,Yes,61288176,10174
+PROP-10633,5,5,9862,Fully Furnished,Yes,Yes,No,No,Private Garage,No,No,119843024,12152
+PROP-10634,2,3,1228,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,9289820,7565
+PROP-10635,2,2,1043,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,8883231,8517
+PROP-10636,2,2,1165,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10420925,8945
+PROP-10637,2,3,1107,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14891364,13452
+PROP-10638,4,4,4848,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,47529792,9804
+PROP-10639,2,2,1090,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,8938000,8200
+PROP-10640,2,3,1092,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,11466000,10500
+PROP-10641,2,3,1364,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14186964,10401
+PROP-10642,3,4,2026,Unfurnished,No,Yes,No,No,Covered,No,Yes,14386626,7101
+PROP-10643,3,3,2564,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,25839992,10078
+PROP-10644,3,3,2492,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,22099056,8868
+PROP-10645,1,2,703,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,6369180,9060
+PROP-10646,2,2,1033,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,13034394,12618
+PROP-10647,4,5,3085,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,32688660,10596
+PROP-10648,3,4,2495,Unfurnished,No,No,No,No,Open,Yes,Yes,23163580,9284
+PROP-10649,2,2,946,Unfurnished,No,No,No,No,Covered,Yes,Yes,10868594,11489
+PROP-10650,2,2,1093,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11619683,10631
+PROP-10651,2,3,1253,Fully Furnished,No,No,No,No,Open,Yes,Yes,10104192,8064
+PROP-10652,3,4,1786,Semi-Furnished,Yes,No,No,Yes,Covered,Yes,Yes,14673776,8216
+PROP-10653,3,3,2095,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,15903145,7591
+PROP-10654,4,5,4487,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,46830819,10437
+PROP-10655,2,2,1307,Unfurnished,No,Yes,Yes,Yes,Covered,No,Yes,11804824,9032
+PROP-10656,2,3,1309,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,14688289,11221
+PROP-10657,4,5,3200,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,46057600,14393
+PROP-10658,2,3,1063,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,10975475,10325
+PROP-10659,3,3,2283,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,23065149,10103
+PROP-10660,1,1,629,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,7064299,11231
+PROP-10661,4,4,4687,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,54594176,11648
+PROP-10662,2,3,907,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,6847850,7550
+PROP-10663,2,2,971,Unfurnished,No,Yes,No,No,Covered,No,Yes,8052503,8293
+PROP-10664,2,2,1102,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10963798,9949
+PROP-10665,3,4,1705,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14697100,8620
+PROP-10666,2,3,1100,Semi-Furnished,Yes,No,No,Yes,Open,Yes,Yes,11289300,10263
+PROP-10667,3,3,2597,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,29938216,11528
+PROP-10668,2,2,1222,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,12965420,10610
+PROP-10669,1,1,495,Unfurnished,Yes,Yes,No,No,,Yes,Yes,5628150,11370
+PROP-10670,3,4,2476,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,19664392,7942
+PROP-10671,2,2,1254,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,10346754,8251
+PROP-10672,3,4,2381,Semi-Furnished,No,No,Yes,Yes,Covered,Yes,Yes,27264831,11451
+PROP-10673,3,4,2531,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,24307724,9604
+PROP-10674,2,3,1038,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,7864926,7577
+PROP-10675,2,2,996,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9372360,9410
+PROP-10676,3,3,2218,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,21885006,9867
+PROP-10677,3,4,1723,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,14979762,8694
+PROP-10678,3,3,2475,Fully Furnished,No,No,No,No,Open,Yes,Yes,20168775,8149
+PROP-10679,4,4,3711,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,No,25015851,6741
+PROP-10680,2,3,1117,Unfurnished,No,Yes,No,No,Covered,Yes,No,6475249,5797
+PROP-10681,3,4,1865,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,17200895,9223
+PROP-10682,2,2,1267,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,16275882,12846
+PROP-10683,5,6,9249,Fully Furnished,Yes,Yes,No,No,Covered,No,No,86145186,9314
+PROP-10684,2,2,1200,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,12232800,10194
+PROP-10685,3,3,2321,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,21926487,9447
+PROP-10686,4,4,3305,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,36378135,11007
+PROP-10687,1,2,589,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,4918739,8351
+PROP-10688,4,5,4594,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,57838460,12590
+PROP-10689,3,4,2128,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,16306864,7663
+PROP-10690,3,4,2090,Unfurnished,No,Yes,No,No,Open,No,No,14078240,6736
+PROP-10691,4,4,4955,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,49981085,10087
+PROP-10692,2,3,1401,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,11628300,8300
+PROP-10693,2,2,1242,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,16036704,12912
+PROP-10694,2,2,1139,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11803457,10363
+PROP-10695,4,5,4761,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,45143802,9482
+PROP-10696,4,4,3213,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,35699643,11111
+PROP-10697,3,3,1658,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18491674,11153
+PROP-10698,3,3,1580,Unfurnished,No,No,No,No,Open,Yes,Yes,11325440,7168
+PROP-10699,2,2,1304,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,15567152,11938
+PROP-10700,3,3,2491,Unfurnished,No,Yes,Yes,Yes,Covered,No,Yes,28731194,11534
+PROP-10701,3,4,1731,Unfurnished,No,Yes,No,No,Open,No,No,10408503,6013
+PROP-10702,5,6,6273,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,67472388,10756
+PROP-10703,4,5,3758,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42093358,11201
+PROP-10704,4,4,3705,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,46453290,12538
+PROP-10705,3,3,2013,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,18161286,9022
+PROP-10706,3,4,2457,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,24796044,10092
+PROP-10707,4,5,3354,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,45255522,13493
+PROP-10708,2,3,1302,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14795928,11364
+PROP-10709,4,5,4689,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,52755939,11251
+PROP-10710,1,1,488,Semi-Furnished,Yes,Yes,Yes,Yes,,Yes,Yes,4777520,9790
+PROP-10711,4,5,2917,Unfurnished,Yes,Yes,No,Yes,Private Garage,No,Yes,32343696,11088
+PROP-10712,4,5,4286,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,50557656,11796
+PROP-10713,3,3,2299,Fully Furnished,No,Yes,No,No,Covered,Yes,No,19493221,8479
+PROP-10714,2,2,1304,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9974296,7649
+PROP-10715,1,1,503,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,5894154,11718
+PROP-10716,3,3,2388,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,22318248,9346
+PROP-10717,2,2,1425,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11089350,7782
+PROP-10718,4,5,3394,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,27583038,8127
+PROP-10719,1,2,748,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,8334964,11143
+PROP-10720,2,3,916,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,10525756,11491
+PROP-10721,3,3,1645,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,16088100,9780
+PROP-10722,2,2,1014,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,11200644,11046
+PROP-10723,3,3,1712,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,16447184,9607
+PROP-10724,2,2,1206,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15222132,12622
+PROP-10725,3,4,2092,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,15296704,7312
+PROP-10726,4,4,4735,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,63695220,13452
+PROP-10727,3,3,2339,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,25272895,10805
+PROP-10728,3,3,2120,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,25302200,11935
+PROP-10729,3,3,1907,Fully Furnished,No,No,No,Yes,Covered,Yes,Yes,23961455,12565
+PROP-10730,3,3,2282,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,19353642,8481
+PROP-10731,2,2,1217,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11118512,9136
+PROP-10732,2,2,1328,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,9458016,7122
+PROP-10733,3,3,2575,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,21279800,8264
+PROP-10734,3,4,1883,Semi-Furnished,No,Yes,Yes,Yes,Open,No,Yes,16131661,8567
+PROP-10735,3,4,2253,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,22644903,10051
+PROP-10736,1,1,822,Semi-Furnished,No,Yes,No,No,,Yes,Yes,8379468,10194
+PROP-10737,2,2,1117,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9423012,8436
+PROP-10738,5,5,7013,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,71202989,10153
+PROP-10739,2,2,1393,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11178825,8025
+PROP-10740,2,2,1200,Fully Furnished,No,Yes,No,No,Covered,No,Yes,14178000,11815
+PROP-10741,2,2,1192,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,9199856,7718
+PROP-10742,4,4,3934,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42278698,10747
+PROP-10743,2,3,1433,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14143710,9870
+PROP-10744,2,2,1180,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9006940,7633
+PROP-10745,5,5,7083,Unfurnished,Yes,Yes,No,No,Private Garage,No,Yes,92681055,13085
+PROP-10746,4,4,3024,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,31845744,10531
+PROP-10747,5,6,5749,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,72546631,12619
+PROP-10748,2,2,1238,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,9392706,7587
+PROP-10749,3,4,1806,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,19466874,10779
+PROP-10750,4,4,3838,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,42371520,11040
+PROP-10751,3,3,1769,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,19023826,10754
+PROP-10752,5,5,8564,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,91651928,10702
+PROP-10753,5,6,9948,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,87303648,8776
+PROP-10754,2,3,951,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,9250377,9727
+PROP-10755,5,6,8226,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,82054350,9975
+PROP-10756,4,5,3321,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,47809116,14396
+PROP-10757,3,3,2087,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20640430,9890
+PROP-10758,2,2,1364,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10470064,7676
+PROP-10759,2,3,1437,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12835284,8932
+PROP-10760,3,4,1661,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,17362433,10453
+PROP-10761,5,6,7961,Semi-Furnished,Yes,No,No,Yes,Covered,Yes,Yes,67278411,8451
+PROP-10762,3,4,2176,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21179008,9733
+PROP-10763,1,1,487,Semi-Furnished,No,No,No,No,,Yes,Yes,4460433,9159
+PROP-10764,2,3,1297,Fully Furnished,No,No,No,Yes,Covered,Yes,Yes,15693700,12100
+PROP-10765,2,2,947,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,9530608,10064
+PROP-10766,2,2,1162,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10282538,8849
+PROP-10767,2,3,1262,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,14395634,11407
+PROP-10768,2,2,1184,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9142848,7722
+PROP-10769,2,2,1413,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12871017,9109
+PROP-10770,2,2,1237,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,12441746,10058
+PROP-10771,2,2,1251,Semi-Furnished,No,No,No,No,Open,Yes,Yes,11962062,9562
+PROP-10772,4,4,4500,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,60169500,13371
+PROP-10773,4,5,4558,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,44736770,9815
+PROP-10774,4,4,2859,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,27546465,9635
+PROP-10775,3,3,1620,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,14283540,8817
+PROP-10776,2,2,1066,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,13051038,12243
+PROP-10777,1,1,610,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,6031680,9888
+PROP-10778,2,2,1145,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12213715,10667
+PROP-10779,3,3,1558,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,12071384,7748
+PROP-10780,3,4,2285,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18174890,7954
+PROP-10781,4,5,3177,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,28901169,9097
+PROP-10782,5,6,5860,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,80780100,13785
+PROP-10783,3,3,1924,Semi-Furnished,No,Yes,No,Yes,Covered,No,Yes,18830188,9787
+PROP-10784,1,1,552,Unfurnished,No,Yes,No,No,Open,Yes,Yes,4832760,8755
+PROP-10785,5,5,9001,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,132287697,14697
+PROP-10786,3,3,2070,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,15402870,7441
+PROP-10787,5,5,6398,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,52725918,8241
+PROP-10788,4,5,3530,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,No,31162840,8828
+PROP-10789,3,3,1886,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21507944,11404
+PROP-10790,2,2,1314,Semi-Furnished,No,No,No,No,Open,Yes,Yes,8744670,6655
+PROP-10791,4,4,3302,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,39501826,11963
+PROP-10792,3,4,2167,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23717815,10945
+PROP-10793,1,2,808,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,8218976,10172
+PROP-10794,3,4,1984,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18350016,9249
+PROP-10795,2,2,1227,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,8581638,6994
+PROP-10796,3,4,2012,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,18196528,9044
+PROP-10797,2,2,938,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,8234702,8779
+PROP-10798,2,2,980,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,12109860,12357
+PROP-10799,3,4,2585,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,20757550,8030
+PROP-10800,3,4,1728,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,22185792,12839
+PROP-10801,2,2,1286,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,15209522,11827
+PROP-10802,3,4,2522,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25701702,10191
+PROP-10803,3,4,1608,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11169168,6946
+PROP-10804,1,1,629,Fully Furnished,Yes,Yes,No,No,,Yes,No,5770446,9174
+PROP-10805,3,3,1630,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,16507010,10127
+PROP-10806,3,3,2477,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21121379,8527
+PROP-10807,5,5,6228,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,Yes,62130528,9976
+PROP-10808,1,2,539,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,5143677,9543
+PROP-10809,2,2,967,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,10119655,10465
+PROP-10810,2,2,1072,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,10852928,10124
+PROP-10811,2,2,979,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11421993,11667
+PROP-10812,2,3,1217,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11869401,9753
+PROP-10813,5,5,9130,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,No,85703310,9387
+PROP-10814,3,3,1793,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,21299047,11879
+PROP-10815,2,3,1381,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14989374,10854
+PROP-10816,3,3,1873,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,21138678,11286
+PROP-10817,2,2,1203,Fully Furnished,No,Yes,No,No,Covered,No,Yes,14697051,12217
+PROP-10818,3,4,2588,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,27259404,10533
+PROP-10819,4,5,3717,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,47782035,12855
+PROP-10820,3,3,2241,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,23629104,10544
+PROP-10821,2,2,1115,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,13112400,11760
+PROP-10822,3,4,1886,Fully Furnished,No,No,No,No,Covered,Yes,Yes,21619218,11463
+PROP-10823,3,4,2598,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,28887162,11119
+PROP-10824,2,2,985,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,6919625,7025
+PROP-10825,3,3,2134,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,28655352,13428
+PROP-10826,3,3,2322,Unfurnished,No,Yes,No,No,Covered,Yes,No,13592988,5854
+PROP-10827,3,4,2352,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,20622336,8768
+PROP-10828,4,5,4430,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,48605960,10972
+PROP-10829,3,4,2233,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,28635992,12824
+PROP-10830,4,4,2891,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,No,Yes,29676115,10265
+PROP-10831,2,3,1219,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,13534557,11103
+PROP-10832,5,6,8329,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,No,No,81515923,9787
+PROP-10833,2,3,1208,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,14372784,11898
+PROP-10834,3,4,2368,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,21338048,9011
+PROP-10835,1,1,661,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7489791,11331
+PROP-10836,3,3,1975,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,22218750,11250
+PROP-10837,4,5,4095,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,43492995,10621
+PROP-10838,4,5,4350,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,40394100,9286
+PROP-10839,5,6,5782,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,No,52205678,9029
+PROP-10840,5,6,9367,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,100208166,10698
+PROP-10841,5,6,8639,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,87608099,10141
+PROP-10842,2,2,1037,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10473700,10100
+PROP-10843,5,5,6646,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,90771068,13658
+PROP-10844,2,3,1074,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,7586736,7064
+PROP-10845,3,3,1744,Semi-Furnished,Yes,No,No,Yes,Open,Yes,Yes,16810416,9639
+PROP-10846,3,4,1718,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,17008200,9900
+PROP-10847,3,3,2108,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,27753928,13166
+PROP-10848,1,1,731,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,8687204,11884
+PROP-10849,2,2,1309,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15049573,11497
+PROP-10850,4,5,3465,Unfurnished,Yes,No,No,Yes,Covered,Yes,Yes,39213405,11317
+PROP-10851,3,4,2247,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,28999782,12906
+PROP-10852,2,3,1164,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11003292,9453
+PROP-10853,3,4,2208,Unfurnished,No,Yes,No,No,Open,Yes,Yes,19375200,8775
+PROP-10854,3,4,2305,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,20853335,9047
+PROP-10855,2,2,1023,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,11469876,11212
+PROP-10856,5,6,7963,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,83221313,10451
+PROP-10857,2,3,1032,Semi-Furnished,Yes,Yes,No,No,Covered,No,Yes,11951592,11581
+PROP-10858,3,3,1646,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,16790846,10201
+PROP-10859,5,5,6559,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,73336179,11181
+PROP-10860,2,3,1165,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9170880,7872
+PROP-10861,2,3,1071,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9882117,9227
+PROP-10862,4,4,3826,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,45651832,11932
+PROP-10863,3,4,2027,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18476105,9115
+PROP-10864,2,3,1422,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12641580,8890
+PROP-10865,4,5,4889,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,56091497,11473
+PROP-10866,3,3,1760,Semi-Furnished,Yes,No,No,Yes,Covered,Yes,No,14312320,8132
+PROP-10867,3,3,1593,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,13871844,8708
+PROP-10868,5,5,9117,Fully Furnished,Yes,No,No,No,Covered,Yes,No,91926711,10083
+PROP-10869,3,3,2213,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,18330279,8283
+PROP-10870,3,3,1646,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,13941620,8470
+PROP-10871,2,3,1246,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,12088692,9702
+PROP-10872,5,5,7312,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,74728640,10220
+PROP-10873,4,4,4848,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,62849472,12964
+PROP-10874,3,4,2524,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,23122364,9161
+PROP-10875,1,1,450,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,4627800,10284
+PROP-10876,2,3,1062,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11140380,10490
+PROP-10877,3,3,2217,Unfurnished,No,Yes,No,No,Open,Yes,Yes,18288033,8249
+PROP-10878,2,2,1162,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,9265788,7974
+PROP-10879,5,5,8169,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,79255638,9702
+PROP-10880,2,2,1072,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,7528656,7023
+PROP-10881,2,2,927,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10490859,11317
+PROP-10882,3,4,1586,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16286634,10269
+PROP-10883,3,4,2281,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,27953655,12255
+PROP-10884,3,4,2053,Semi-Furnished,No,No,Yes,Yes,Open,Yes,No,11207327,5459
+PROP-10885,3,3,2319,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,20377053,8787
+PROP-10886,3,3,1797,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12929415,7195
+PROP-10887,3,3,1788,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,19819980,11085
+PROP-10888,5,5,8048,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,82395424,10238
+PROP-10889,4,5,4617,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,66784905,14465
+PROP-10890,2,2,1261,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,9115769,7229
+PROP-10891,3,3,1593,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,13038705,8185
+PROP-10892,4,4,3808,Fully Furnished,Yes,No,No,No,Covered,No,Yes,49682976,13047
+PROP-10893,5,6,8795,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,96489945,10971
+PROP-10894,2,2,1228,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10772016,8772
+PROP-10895,2,3,1384,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10162712,7343
+PROP-10896,3,3,2491,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,25739503,10333
+PROP-10897,2,2,986,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,8944006,9071
+PROP-10898,2,2,1000,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7548000,7548
+PROP-10899,2,2,1035,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11235960,10856
+PROP-10900,4,4,4434,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,52330068,11802
+PROP-10901,2,2,1248,Semi-Furnished,No,Yes,No,No,Covered,No,No,9710688,7781
+PROP-10902,2,3,1421,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,14526883,10223
+PROP-10903,2,2,1324,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,10855476,8199
+PROP-10904,5,6,9055,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,109013145,12039
+PROP-10905,2,3,989,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,9670442,9778
+PROP-10906,1,1,690,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,7782510,11279
+PROP-10907,3,3,2321,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20886679,8999
+PROP-10908,5,5,9428,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,103755140,11005
+PROP-10909,5,6,6568,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,No,67624128,10296
+PROP-10910,5,6,7279,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,84501911,11609
+PROP-10911,5,6,8094,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,69244170,8555
+PROP-10912,3,3,2075,Unfurnished,Yes,No,No,Yes,Open,Yes,Yes,17046125,8215
+PROP-10913,1,2,508,Unfurnished,No,Yes,No,Yes,,Yes,Yes,4718304,9288
+PROP-10914,4,4,4990,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,58502760,11724
+PROP-10915,3,3,1827,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,16011828,8764
+PROP-10916,2,3,1214,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,12046522,9923
+PROP-10917,3,3,2194,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,15570818,7097
+PROP-10918,2,2,1202,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,No,7240848,6024
+PROP-10919,3,3,2093,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,21809060,10420
+PROP-10920,3,3,2120,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,20070040,9467
+PROP-10921,5,6,7650,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,85741200,11208
+PROP-10922,3,3,1999,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22284852,11148
+PROP-10923,2,2,1116,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,10172340,9115
+PROP-10924,4,4,2842,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,No,20792072,7316
+PROP-10925,2,2,1118,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,No,7097064,6348
+PROP-10926,4,5,3579,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,42679575,11925
+PROP-10927,1,2,706,Semi-Furnished,No,No,No,Yes,,Yes,Yes,5089554,7209
+PROP-10928,2,3,1414,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,11774378,8327
+PROP-10929,3,3,1912,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21517648,11254
+PROP-10930,4,4,3141,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,33828570,10770
+PROP-10931,2,3,1117,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,9544765,8545
+PROP-10932,1,1,801,Fully Furnished,No,Yes,No,Yes,,Yes,Yes,7775307,9707
+PROP-10933,1,1,766,Fully Furnished,No,No,No,No,,Yes,Yes,7835414,10229
+PROP-10934,4,4,4547,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,61134415,13445
+PROP-10935,2,2,1068,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,12703860,11895
+PROP-10936,2,2,1200,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,10131600,8443
+PROP-10937,2,3,1093,Unfurnished,Yes,Yes,Yes,Yes,Covered,No,Yes,13318205,12185
+PROP-10938,3,4,1676,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,13413028,8003
+PROP-10939,2,2,1166,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9133278,7833
+PROP-10940,2,2,1232,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,11961488,9709
+PROP-10941,1,2,736,Fully Furnished,No,Yes,Yes,Yes,Open,No,Yes,9537088,12958
+PROP-10942,3,3,2382,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,27971826,11743
+PROP-10943,2,2,1100,Unfurnished,No,Yes,No,No,Open,Yes,Yes,11044000,10040
+PROP-10944,4,4,3756,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,36316764,9669
+PROP-10945,4,4,4231,Unfurnished,Yes,Yes,No,No,Covered,Yes,No,41154937,9727
+PROP-10946,3,3,1720,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,15775840,9172
+PROP-10947,2,2,1357,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,9703907,7151
+PROP-10948,3,3,2498,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,18974808,7596
+PROP-10949,3,3,1958,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,21367654,10913
+PROP-10950,4,4,3741,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,39639636,10596
+PROP-10951,2,3,1090,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,12262500,11250
+PROP-10952,2,2,1186,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,11379670,9595
+PROP-10953,2,3,1016,Unfurnished,No,Yes,No,No,Open,No,Yes,10716768,10548
+PROP-10954,2,2,1208,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,7951056,6582
+PROP-10955,2,3,1069,Fully Furnished,No,No,No,No,Open,Yes,Yes,10593790,9910
+PROP-10956,1,2,829,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,9526039,11491
+PROP-10957,3,4,2111,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,22484261,10651
+PROP-10958,4,4,2835,Fully Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,39619125,13975
+PROP-10959,2,3,1195,Unfurnished,No,Yes,No,No,Open,Yes,Yes,10884060,9108
+PROP-10960,4,4,4432,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,52567952,11861
+PROP-10961,2,2,1141,Fully Furnished,Yes,No,No,No,Open,Yes,Yes,11985064,10504
+PROP-10962,4,5,3933,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,38334951,9747
+PROP-10963,5,5,8139,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,76164762,9358
+PROP-10964,3,4,1820,Fully Furnished,No,No,No,Yes,Covered,Yes,Yes,21749000,11950
+PROP-10965,3,4,2483,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,20539376,8272
+PROP-10966,4,4,3329,Unfurnished,Yes,Yes,Yes,Yes,Covered,No,Yes,42847559,12871
+PROP-10967,3,3,2536,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,24870552,9807
+PROP-10968,2,2,1023,Unfurnished,No,Yes,No,Yes,Open,No,Yes,8111367,7929
+PROP-10969,3,4,1890,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,17905860,9474
+PROP-10970,3,3,1716,Semi-Furnished,No,Yes,No,No,Open,Yes,No,10738728,6258
+PROP-10971,3,4,1911,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,16939104,8864
+PROP-10972,1,1,842,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,8676810,10305
+PROP-10973,3,3,1915,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,13251800,6920
+PROP-10974,4,4,4816,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,56072688,11643
+PROP-10975,1,1,713,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,4938951,6927
+PROP-10976,3,4,2054,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,22341358,10877
+PROP-10977,5,6,9750,Semi-Furnished,Yes,No,No,No,Covered,Yes,Yes,97041750,9953
+PROP-10978,2,2,1413,Unfurnished,No,No,No,Yes,Covered,Yes,No,7712154,5458
+PROP-10979,2,2,1196,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11787776,9856
+PROP-10980,3,3,2494,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,24558418,9847
+PROP-10981,3,3,2221,Semi-Furnished,Yes,Yes,Yes,Yes,Open,No,Yes,27535958,12398
+PROP-10982,4,4,2893,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,37698683,13031
+PROP-10983,2,3,1328,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,15167088,11421
+PROP-10984,5,5,9499,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,110615855,11645
+PROP-10985,5,5,6610,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,66681680,10088
+PROP-10986,4,4,3293,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,28148564,8548
+PROP-10987,4,5,2840,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,27837680,9802
+PROP-10988,2,2,1278,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,16910496,13232
+PROP-10989,3,4,2497,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,29651875,11875
+PROP-10990,2,2,1305,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15226740,11668
+PROP-10991,3,3,1632,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,11946240,7320
+PROP-10992,3,4,2383,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,24330430,10210
+PROP-10993,2,3,1079,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12628616,11704
+PROP-10994,3,4,2167,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,20306957,9371
+PROP-10995,3,3,1874,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,17572498,9377
+PROP-10996,1,2,586,Unfurnished,No,Yes,No,No,Open,Yes,Yes,5562898,9493
+PROP-10997,4,4,4705,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,49717735,10567
+PROP-10998,5,5,8214,Fully Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,128212326,15609
+PROP-10999,2,2,1446,Semi-Furnished,No,Yes,No,No,Open,Yes,No,7996380,5530
+PROP-11000,3,3,2533,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,20514767,8099
+PROP-11001,4,5,4774,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,No,55125378,11547
+PROP-11002,2,2,972,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,12461040,12820
+PROP-11003,1,2,769,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,8553587,11123
+PROP-11004,4,4,3456,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,44461440,12865
+PROP-11005,5,6,8054,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,81578966,10129
+PROP-11006,4,4,4339,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,42517861,9799
+PROP-11007,4,5,3636,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,44351928,12198
+PROP-11008,5,6,6175,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,No,61700600,9992
+PROP-11009,3,4,1904,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,17457776,9169
+PROP-11010,4,4,3980,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,37129420,9329
+PROP-11011,3,4,1893,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,22394190,11830
+PROP-11012,2,2,1020,Unfurnished,No,No,No,No,Open,Yes,Yes,6847260,6713
+PROP-11013,2,3,1073,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12453238,11606
+PROP-11014,4,4,3856,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,45038080,11680
+PROP-11015,4,5,3428,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,33752088,9846
+PROP-11016,5,6,8557,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,86981905,10165
+PROP-11017,1,1,474,Semi-Furnished,No,Yes,No,No,,Yes,Yes,4399668,9282
+PROP-11018,3,3,2207,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,25358430,11490
+PROP-11019,2,3,1192,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,15103832,12671
+PROP-11020,2,3,1338,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13560630,10135
+PROP-11021,2,3,1106,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,13891360,12560
+PROP-11022,2,2,1073,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,11467151,10687
+PROP-11023,2,2,1086,Fully Furnished,Yes,No,No,Yes,Covered,Yes,Yes,12774618,11763
+PROP-11024,1,1,742,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6245414,8417
+PROP-11025,5,5,6171,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,75823077,12287
+PROP-11026,5,5,8368,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,101872032,12174
+PROP-11027,2,2,1398,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,16541136,11832
+PROP-11028,3,4,2363,Unfurnished,No,Yes,No,No,Open,Yes,Yes,23523665,9955
+PROP-11029,2,2,1398,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13963224,9988
+PROP-11030,3,3,1638,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,17493840,10680
+PROP-11031,3,4,1920,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,20707200,10785
+PROP-11032,1,2,844,Fully Furnished,No,Yes,No,No,,Yes,Yes,9362492,11093
+PROP-11033,2,2,1137,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,11347260,9980
+PROP-11034,2,2,986,Fully Furnished,No,No,No,Yes,Open,Yes,Yes,11952292,12122
+PROP-11035,1,2,680,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,7529640,11073
+PROP-11036,5,5,5820,Semi-Furnished,Yes,No,No,Yes,Covered,Yes,Yes,70253220,12071
+PROP-11037,2,2,1115,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11001705,9867
+PROP-11038,2,3,1232,Fully Furnished,No,Yes,No,No,Covered,Yes,No,11973808,9719
+PROP-11039,3,4,2573,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,22127800,8600
+PROP-11040,1,2,535,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6380410,11926
+PROP-11041,4,5,3084,Semi-Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,39570804,12831
+PROP-11042,1,1,761,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,6356633,8353
+PROP-11043,2,3,1107,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11324610,10230
+PROP-11044,5,6,7864,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,94257904,11986
+PROP-11045,4,5,4596,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,51810708,11273
+PROP-11046,3,3,2212,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20155744,9112
+PROP-11047,4,5,4842,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,57169494,11807
+PROP-11048,2,3,1288,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13160784,10218
+PROP-11049,3,3,1817,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15924188,8764
+PROP-11050,4,5,4257,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,52573950,12350
+PROP-11051,5,5,8350,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,No,77446250,9275
+PROP-11052,2,2,1399,Unfurnished,No,No,No,No,Open,Yes,Yes,12070572,8628
+PROP-11053,2,2,972,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,9327312,9596
+PROP-11054,2,2,1339,Unfurnished,No,No,Yes,Yes,Open,No,Yes,10279503,7677
+PROP-11055,2,2,1382,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14422552,10436
+PROP-11056,2,2,1343,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,12464383,9281
+PROP-11057,2,3,990,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,7196310,7269
+PROP-11058,3,4,2328,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23591952,10134
+PROP-11059,1,1,775,Unfurnished,Yes,Yes,Yes,Yes,,Yes,Yes,9423225,12159
+PROP-11060,2,2,1154,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,10013258,8677
+PROP-11061,3,4,1880,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15790120,8399
+PROP-11062,4,5,4482,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,51619194,11517
+PROP-11063,4,5,4091,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,42382760,10360
+PROP-11064,2,3,1123,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,8238328,7336
+PROP-11065,3,3,1590,Unfurnished,No,No,No,No,Covered,Yes,Yes,15392790,9681
+PROP-11066,3,4,1883,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,20059599,10653
+PROP-11067,5,5,9548,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,117822320,12340
+PROP-11068,4,5,3944,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,41534264,10531
+PROP-11069,2,2,1181,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13234286,11206
+PROP-11070,3,3,2001,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,18961476,9476
+PROP-11071,5,5,8268,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,124292844,15033
+PROP-11072,3,4,2439,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25260723,10357
+PROP-11073,5,5,8681,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,112800914,12994
+PROP-11074,3,3,2556,Fully Furnished,No,No,No,No,Covered,Yes,Yes,23614884,9239
+PROP-11075,5,5,7133,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,69496819,9743
+PROP-11076,1,1,845,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,8270860,9788
+PROP-11077,4,4,4361,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,44185652,10132
+PROP-11078,3,3,1712,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,20263232,11836
+PROP-11079,2,3,1283,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,No,9219638,7186
+PROP-11080,2,3,1055,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,8106620,7684
+PROP-11081,3,4,1818,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,17510976,9632
+PROP-11082,2,2,1043,Unfurnished,No,Yes,Yes,Yes,Open,No,Yes,10491537,10059
+PROP-11083,3,4,1968,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,18924288,9616
+PROP-11084,4,5,3091,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,45369698,14678
+PROP-11085,5,6,5663,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,57077377,10079
+PROP-11086,2,3,1353,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,12584253,9301
+PROP-11087,2,3,1321,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11322291,8571
+PROP-11088,3,3,1938,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,20035044,10338
+PROP-11089,4,4,4604,Fully Furnished,Yes,Yes,No,Yes,Private Garage,No,Yes,49460772,10743
+PROP-11090,2,3,1395,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12903750,9250
+PROP-11091,2,2,1190,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11226460,9434
+PROP-11092,3,4,1565,Fully Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,20423250,13050
+PROP-11093,2,3,1254,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11446512,9128
+PROP-11094,5,5,8935,Fully Furnished,Yes,Yes,No,No,Covered,Yes,No,77359230,8658
+PROP-11095,2,3,1126,Semi-Furnished,Yes,No,Yes,Yes,Covered,Yes,Yes,10201560,9060
+PROP-11096,2,2,1403,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,14933532,10644
+PROP-11097,2,3,984,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,9307656,9459
+PROP-11098,3,4,1646,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15538240,9440
+PROP-11099,4,4,3313,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,35270198,10646
+PROP-11100,3,4,2318,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23261130,10035
+PROP-11101,4,4,4068,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,43344540,10655
+PROP-11102,3,4,2188,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,22486076,10277
+PROP-11103,2,2,1089,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11999691,11019
+PROP-11104,3,3,1561,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,15627171,10011
+PROP-11105,2,3,1405,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,10035915,7143
+PROP-11106,3,3,2263,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,21869632,9664
+PROP-11107,3,4,2235,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,27242415,12189
+PROP-11108,3,4,2424,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,20325240,8385
+PROP-11109,4,5,3199,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,39254929,12271
+PROP-11110,3,4,1887,Fully Furnished,Yes,Yes,No,No,Open,No,Yes,17341530,9190
+PROP-11111,3,4,1714,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,21414716,12494
+PROP-11112,5,5,9189,Unfurnished,Yes,Yes,No,No,Private Garage,No,Yes,102512484,11156
+PROP-11113,4,4,3386,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,32387090,9565
+PROP-11114,3,4,2496,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,28394496,11376
+PROP-11115,3,3,1798,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,16056140,8930
+PROP-11116,2,2,1070,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,9036150,8445
+PROP-11117,3,4,2033,Semi-Furnished,No,Yes,No,No,Covered,No,Yes,17217477,8469
+PROP-11118,2,3,1023,Unfurnished,No,Yes,No,No,Covered,Yes,No,6611649,6463
+PROP-11119,3,3,1755,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,18952245,10799
+PROP-11120,5,5,8441,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,112881493,13373
+PROP-11121,2,2,1440,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,11007360,7644
+PROP-11122,3,3,2128,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,22488704,10568
+PROP-11123,3,3,2573,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,27080825,10525
+PROP-11124,1,2,715,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,8419125,11775
+PROP-11125,3,3,2581,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,28323894,10974
+PROP-11126,3,4,2051,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,23766988,11588
+PROP-11127,3,3,2231,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,21640700,9700
+PROP-11128,5,5,7208,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,64252112,8914
+PROP-11129,3,3,2134,Unfurnished,No,Yes,No,No,Open,Yes,Yes,17690860,8290
+PROP-11130,3,3,2437,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,20855846,8558
+PROP-11131,4,5,4137,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,37348836,9028
+PROP-11132,2,2,1043,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,11922533,11431
+PROP-11133,3,3,1930,Unfurnished,No,Yes,No,No,Open,Yes,Yes,15301040,7928
+PROP-11134,2,3,1358,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,12433848,9156
+PROP-11135,1,1,751,Fully Furnished,No,Yes,No,Yes,,Yes,Yes,8700335,11585
+PROP-11136,4,4,4118,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,40974100,9950
+PROP-11137,3,3,1952,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,14087584,7217
+PROP-11138,2,3,919,Fully Furnished,No,No,No,No,Open,Yes,Yes,10121866,11014
+PROP-11139,1,1,481,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,4385277,9117
+PROP-11140,3,3,1703,Unfurnished,No,No,No,No,Open,Yes,No,9952332,5844
+PROP-11141,5,6,9517,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,99976085,10505
+PROP-11142,1,1,469,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,4155340,8860
+PROP-11143,3,3,2569,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,25923779,10091
+PROP-11144,2,2,1448,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,13877632,9584
+PROP-11145,3,4,2565,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,21463920,8368
+PROP-11146,1,2,674,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,5953442,8833
+PROP-11147,5,6,8041,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,86344258,10738
+PROP-11148,3,4,1767,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,19143678,10834
+PROP-11149,4,4,4499,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,45556874,10126
+PROP-11150,3,4,1898,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,16548662,8719
+PROP-11151,1,2,822,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,8866914,10787
+PROP-11152,3,3,2215,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,15950215,7201
+PROP-11153,4,5,2898,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,34741224,11988
+PROP-11154,3,4,2080,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,20207200,9715
+PROP-11155,5,6,6819,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,73195146,10734
+PROP-11156,3,4,1908,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,19656216,10302
+PROP-11157,3,4,1598,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,15078728,9436
+PROP-11158,4,4,4974,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,54420534,10941
+PROP-11159,2,3,1211,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,13058213,10783
+PROP-11160,3,4,2411,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,25257636,10476
+PROP-11161,3,4,1792,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,15491840,8645
+PROP-11162,2,2,934,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10336578,11067
+PROP-11163,3,4,1987,Unfurnished,Yes,No,No,Yes,Covered,Yes,Yes,21566898,10854
+PROP-11164,3,3,1671,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,13790763,8253
+PROP-11165,3,4,1984,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,17040576,8589
+PROP-11166,3,3,1641,Unfurnished,No,Yes,No,No,Open,Yes,Yes,16711944,10184
+PROP-11167,4,4,4525,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,58440375,12915
+PROP-11168,4,5,4562,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,53489450,11725
+PROP-11169,2,2,1235,Unfurnished,No,No,No,Yes,Covered,Yes,Yes,8877180,7188
+PROP-11170,4,4,2992,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,37298272,12466
+PROP-11171,2,3,946,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,11445654,12099
+PROP-11172,5,5,7639,Unfurnished,Yes,No,No,No,Covered,Yes,Yes,89017267,11653
+PROP-11173,2,3,1208,Fully Furnished,Yes,Yes,No,Yes,Covered,Yes,No,11642704,9638
+PROP-11174,3,3,1932,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,12646872,6546
+PROP-11175,2,2,1275,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,11079750,8690
+PROP-11176,2,3,1178,Fully Furnished,Yes,No,No,No,Covered,Yes,Yes,13779066,11697
+PROP-11177,2,3,1404,Unfurnished,Yes,Yes,No,Yes,Open,Yes,No,14129856,10064
+PROP-11178,2,2,907,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,8528521,9403
+PROP-11179,4,5,4505,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,No,39855735,8847
+PROP-11180,2,3,1390,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,13521920,9728
+PROP-11181,1,1,784,Unfurnished,No,Yes,No,No,Open,Yes,Yes,6017200,7675
+PROP-11182,5,6,8619,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,101342202,11758
+PROP-11183,4,4,4618,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,55619192,12044
+PROP-11184,1,1,572,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,5078788,8879
+PROP-11185,2,2,951,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11690643,12293
+PROP-11186,3,3,1740,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,12835980,7377
+PROP-11187,3,4,2123,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,16306763,7681
+PROP-11188,2,3,1053,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,9924525,9425
+PROP-11189,3,4,2208,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,17527104,7938
+PROP-11190,4,4,4697,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,43583463,9279
+PROP-11191,4,4,3572,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,39902812,11171
+PROP-11192,3,3,1919,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,20038198,10442
+PROP-11193,1,1,547,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,5081083,9289
+PROP-11194,3,4,2148,Semi-Furnished,No,Yes,No,Yes,Open,No,Yes,18487836,8607
+PROP-11195,2,2,1301,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14706504,11304
+PROP-11196,3,3,1959,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,15411453,7867
+PROP-11197,5,5,9236,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,105198040,11390
+PROP-11198,3,3,1952,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,18317568,9384
+PROP-11199,2,2,1036,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,11304832,10912
+PROP-11200,1,2,483,Fully Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,6495384,13448
+PROP-11201,3,3,2264,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,26937072,11898
+PROP-11202,2,3,1353,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12760143,9431
+PROP-11203,4,5,4476,Fully Furnished,Yes,No,No,Yes,Covered,Yes,Yes,49244952,11002
+PROP-11204,3,3,1706,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,12603928,7388
+PROP-11205,3,3,1761,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14250012,8092
+PROP-11206,2,2,1373,Unfurnished,No,Yes,No,Yes,Covered,No,Yes,14652656,10672
+PROP-11207,3,4,1885,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,17837755,9463
+PROP-11208,5,5,5832,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,No,59503896,10203
+PROP-11209,3,3,2553,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,18108429,7093
+PROP-11210,1,1,634,Semi-Furnished,Yes,Yes,No,Yes,Open,Yes,Yes,5082144,8016
+PROP-11211,1,1,526,Fully Furnished,No,Yes,No,No,Open,Yes,No,5163216,9816
+PROP-11212,3,3,2373,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,15495690,6530
+PROP-11213,2,2,926,Unfurnished,Yes,No,No,Yes,Covered,Yes,Yes,9971168,10768
+PROP-11214,1,1,634,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,No,5735798,9047
+PROP-11215,5,5,9841,Unfurnished,Yes,Yes,No,Yes,Private Garage,No,Yes,91590187,9307
+PROP-11216,3,3,1933,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,16183076,8372
+PROP-11217,3,3,2086,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,17238704,8264
+PROP-11218,1,1,671,Semi-Furnished,No,Yes,No,Yes,Open,No,Yes,5741747,8557
+PROP-11219,5,6,6136,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,58506760,9535
+PROP-11220,5,5,9358,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,108768034,11623
+PROP-11221,2,3,1423,Unfurnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,15125067,10629
+PROP-11222,5,5,8788,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,105078116,11957
+PROP-11223,2,2,926,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,9634104,10404
+PROP-11224,2,3,1355,Semi-Furnished,No,Yes,No,No,Open,Yes,No,8058185,5947
+PROP-11225,3,3,2537,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,24733213,9749
+PROP-11226,3,3,2380,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,25487420,10709
+PROP-11227,1,1,460,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,3215400,6990
+PROP-11228,2,2,1406,Unfurnished,No,Yes,No,No,Covered,No,Yes,15974972,11362
+PROP-11229,4,4,4086,Fully Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,61960104,15164
+PROP-11230,3,4,1941,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21036558,10838
+PROP-11231,3,4,1919,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,20654197,10763
+PROP-11232,2,2,931,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,8899429,9559
+PROP-11233,3,4,1566,Semi-Furnished,No,No,No,No,Covered,Yes,No,12502944,7984
+PROP-11234,3,4,1939,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,15358819,7921
+PROP-11235,4,4,3957,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,39538344,9992
+PROP-11236,2,2,1367,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,12945490,9470
+PROP-11237,5,5,8764,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,81680480,9320
+PROP-11238,4,4,4932,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,58202532,11801
+PROP-11239,2,3,1086,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,9284214,8549
+PROP-11240,5,5,6579,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,70355826,10694
+PROP-11241,4,5,4118,Fully Furnished,Yes,Yes,No,No,Private Garage,No,Yes,48954784,11888
+PROP-11242,1,2,684,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,5878980,8595
+PROP-11243,3,4,2335,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,20097345,8607
+PROP-11244,5,5,9881,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,90816271,9191
+PROP-11245,3,4,2386,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,23709682,9937
+PROP-11246,1,1,621,Semi-Furnished,No,Yes,No,Yes,,Yes,Yes,4613409,7429
+PROP-11247,5,5,6707,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,79021874,11782
+PROP-11248,2,2,1227,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,15229524,12412
+PROP-11249,4,4,2979,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,40401198,13562
+PROP-11250,4,5,3946,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,47336216,11996
+PROP-11251,3,4,1821,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,20185785,11085
+PROP-11252,2,2,1415,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,15106540,10676
+PROP-11253,1,2,702,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,6775002,9651
+PROP-11254,4,5,3702,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,39196776,10588
+PROP-11255,4,4,4791,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,59724606,12466
+PROP-11256,3,4,2267,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,17292676,7628
+PROP-11257,3,4,2537,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,22797482,8986
+PROP-11258,3,3,1571,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,14255254,9074
+PROP-11259,2,2,1005,Unfurnished,Yes,Yes,No,No,Open,No,Yes,10192710,10142
+PROP-11260,2,3,1245,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14183040,11392
+PROP-11261,4,4,4596,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,51636060,11235
+PROP-11262,2,2,1054,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,7813302,7413
+PROP-11263,3,3,1618,Unfurnished,No,Yes,No,No,Open,No,Yes,16830436,10402
+PROP-11264,3,4,1815,Semi-Furnished,No,Yes,No,Yes,Covered,No,Yes,15048165,8291
+PROP-11265,2,3,1429,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,18146871,12699
+PROP-11266,5,5,9519,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,Yes,98588283,10357
+PROP-11267,3,4,1833,Semi-Furnished,No,No,Yes,Yes,Covered,Yes,Yes,20549763,11211
+PROP-11268,1,2,526,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,5066432,9632
+PROP-11269,1,1,669,Fully Furnished,No,Yes,No,No,,Yes,Yes,7008444,10476
+PROP-11270,3,4,2205,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,20896785,9477
+PROP-11271,2,3,1195,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,11271240,9432
+PROP-11272,2,2,927,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,No,7309395,7885
+PROP-11273,1,2,810,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,7481970,9237
+PROP-11274,3,3,1929,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,17058147,8843
+PROP-11275,4,4,4488,Unfurnished,Yes,Yes,No,Yes,Private Garage,No,Yes,57320736,12772
+PROP-11276,3,3,2136,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21567192,10097
+PROP-11277,2,2,1311,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,11239203,8573
+PROP-11278,2,2,1302,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,15325842,11771
+PROP-11279,2,3,1098,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,8684082,7909
+PROP-11280,2,3,1031,Fully Furnished,Yes,Yes,No,No,Open,Yes,Yes,12622533,12243
+PROP-11281,5,6,6634,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,67985232,10248
+PROP-11282,3,3,1697,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,15018450,8850
+PROP-11283,2,2,1066,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,11917880,11180
+PROP-11284,2,2,949,Semi-Furnished,No,Yes,No,No,Covered,Yes,No,7708727,8123
+PROP-11285,4,5,4903,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,53241677,10859
+PROP-11286,5,5,7516,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,93168336,12396
+PROP-11287,5,5,6816,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,89739456,13166
+PROP-11288,4,4,3187,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42431718,13314
+PROP-11289,3,3,1935,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,21445605,11083
+PROP-11290,4,4,4051,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,46230012,11412
+PROP-11291,3,3,2503,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,26018685,10395
+PROP-11292,5,6,6131,Semi-Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,77275124,12604
+PROP-11293,3,3,1705,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15111415,8863
+PROP-11294,1,2,727,Fully Furnished,Yes,Yes,No,No,Open,Yes,No,5017754,6902
+PROP-11295,2,2,1337,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,14162841,10593
+PROP-11296,4,4,4087,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,52248208,12784
+PROP-11297,4,4,2892,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,38012448,13144
+PROP-11298,5,5,9223,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,102126279,11073
+PROP-11299,3,4,2419,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,23865854,9866
+PROP-11300,3,4,2131,Fully Furnished,No,No,No,No,Covered,Yes,Yes,23871462,11202
+PROP-11301,3,3,2573,Unfurnished,No,Yes,No,No,Covered,No,Yes,20280386,7882
+PROP-11302,5,5,9114,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,114098166,12519
+PROP-11303,4,5,3004,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,37556008,12502
+PROP-11304,3,3,2533,Unfurnished,No,Yes,No,No,Open,Yes,Yes,20152548,7956
+PROP-11305,2,3,1403,Unfurnished,Yes,Yes,No,Yes,Open,Yes,Yes,12113502,8634
+PROP-11306,4,5,4736,Fully Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,52124416,11006
+PROP-11307,3,3,2509,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,27654198,11022
+PROP-11308,2,2,1291,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,13870504,10744
+PROP-11309,5,5,7140,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,75634020,10593
+PROP-11310,2,2,953,Unfurnished,No,No,No,No,Covered,Yes,Yes,7570632,7944
+PROP-11311,2,3,957,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,11222739,11727
+PROP-11312,4,5,4846,Unfurnished,Yes,Yes,No,No,Covered,No,Yes,44050140,9090
+PROP-11313,4,4,3380,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,44805280,13256
+PROP-11314,2,2,1273,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,16130183,12671
+PROP-11315,4,5,3720,Semi-Furnished,Yes,Yes,No,Yes,Covered,No,No,39242280,10549
+PROP-11316,2,3,928,Unfurnished,Yes,Yes,No,Yes,Open,Yes,No,7174368,7731
+PROP-11317,3,4,2153,Fully Furnished,No,Yes,No,No,Covered,No,Yes,25482908,11836
+PROP-11318,2,2,1379,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16716238,12122
+PROP-11319,2,2,991,Fully Furnished,No,Yes,Yes,Yes,Open,No,Yes,11554069,11659
+PROP-11320,1,1,750,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,4902750,6537
+PROP-11321,5,5,8600,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,103526800,12038
+PROP-11322,4,4,3053,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,30453675,9975
+PROP-11323,3,4,2105,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,18652405,8861
+PROP-11324,2,2,1349,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9703357,7193
+PROP-11325,3,3,2189,Unfurnished,Yes,No,No,No,Open,Yes,Yes,19497423,8907
+PROP-11326,2,2,1177,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,9943296,8448
+PROP-11327,3,4,2554,Semi-Furnished,No,Yes,No,Yes,Open,Yes,No,18782116,7354
+PROP-11328,4,5,3286,Semi-Furnished,Yes,Yes,No,No,Private Garage,Yes,Yes,40062912,12192
+PROP-11329,3,3,1707,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,24589335,14405
+PROP-11330,1,1,506,Unfurnished,No,No,No,No,,Yes,No,2523422,4987
+PROP-11331,4,4,4266,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,49434408,11588
+PROP-11332,3,3,1932,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,23777124,12307
+PROP-11333,4,4,3094,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,26048386,8419
+PROP-11334,2,2,973,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,7442477,7649
+PROP-11335,1,2,532,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,4420388,8309
+PROP-11336,2,3,1025,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,8651000,8440
+PROP-11337,3,3,1893,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,19821603,10471
+PROP-11338,3,3,1699,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,18976131,11169
+PROP-11339,3,4,1564,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16798924,10741
+PROP-11340,3,3,2497,Fully Furnished,No,Yes,Yes,Yes,Open,No,Yes,25322077,10141
+PROP-11341,5,6,8026,Unfurnished,Yes,Yes,No,No,Private Garage,Yes,Yes,81014444,10094
+PROP-11342,4,5,3951,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,50233014,12714
+PROP-11343,5,6,9800,Fully Furnished,Yes,Yes,No,No,Private Garage,No,Yes,122892000,12540
+PROP-11344,3,4,2245,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,25534630,11374
+PROP-11345,3,3,2243,Semi-Furnished,No,Yes,No,Yes,Open,Yes,No,18358955,8185
+PROP-11346,4,4,4309,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,49975782,11598
+PROP-11347,2,2,1432,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,13077024,9132
+PROP-11348,3,4,2256,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,23638368,10478
+PROP-11349,2,2,1285,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,10837690,8434
+PROP-11350,4,4,2856,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,26683608,9343
+PROP-11351,5,6,8851,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,123860894,13994
+PROP-11352,5,5,5700,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,65698200,11526
+PROP-11353,3,3,2224,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,16150688,7262
+PROP-11354,2,2,1318,Fully Furnished,No,No,Yes,Yes,Open,Yes,Yes,15121414,11473
+PROP-11355,2,2,1408,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,14393984,10223
+PROP-11356,2,2,1409,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16041465,11385
+PROP-11357,2,3,1263,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,13879107,10989
+PROP-11358,3,3,2163,Fully Furnished,No,Yes,No,Yes,Covered,Yes,No,16058112,7424
+PROP-11359,2,3,1093,Semi-Furnished,No,Yes,No,No,Covered,Yes,Yes,9216176,8432
+PROP-11360,2,3,1093,Fully Furnished,Yes,Yes,No,No,Covered,No,Yes,14170745,12965
+PROP-11361,4,5,3631,Fully Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,42744132,11772
+PROP-11362,3,3,2049,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,22383276,10924
+PROP-11363,5,6,8459,Fully Furnished,Yes,No,No,Yes,Private Garage,Yes,Yes,103842684,12276
+PROP-11364,2,3,1023,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11360415,11105
+PROP-11365,3,3,2007,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,16461414,8202
+PROP-11366,4,4,3179,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,39670741,12479
+PROP-11367,3,4,2210,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,25496770,11537
+PROP-11368,3,3,2322,Unfurnished,No,No,Yes,Yes,Covered,Yes,Yes,26027298,11209
+PROP-11369,5,5,7678,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,82576890,10755
+PROP-11370,2,2,1388,Unfurnished,No,No,Yes,Yes,Open,Yes,Yes,14604536,10522
+PROP-11371,3,3,1860,Unfurnished,No,Yes,No,No,Open,Yes,No,16388460,8811
+PROP-11372,4,4,3980,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,51732040,12998
+PROP-11373,3,3,2563,Fully Furnished,No,Yes,No,No,Open,Yes,Yes,30097309,11743
+PROP-11374,1,2,803,Unfurnished,No,Yes,No,No,,Yes,Yes,6794183,8461
+PROP-11375,4,5,3876,Semi-Furnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,53306628,13753
+PROP-11376,4,4,2945,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,27571090,9362
+PROP-11377,2,2,1282,Fully Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,13671248,10664
+PROP-11378,1,1,759,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,7567989,9971
+PROP-11379,5,5,9324,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,78983604,8471
+PROP-11380,5,5,8185,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,83560665,10209
+PROP-11381,3,4,2103,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,22758666,10822
+PROP-11382,2,3,1430,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,16632330,11631
+PROP-11383,3,3,2141,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,23632358,11038
+PROP-11384,1,2,826,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7828002,9477
+PROP-11385,5,6,9870,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,105401730,10679
+PROP-11386,2,2,1154,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,11900048,10312
+PROP-11387,3,3,2088,Fully Furnished,Yes,No,No,Yes,Open,Yes,Yes,24901488,11926
+PROP-11388,3,4,2567,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,30123745,11735
+PROP-11389,3,3,1963,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,23135918,11786
+PROP-11390,2,2,1160,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,No,12054720,10392
+PROP-11391,2,3,1263,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,9387879,7433
+PROP-11392,2,3,1247,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,9363723,7509
+PROP-11393,1,2,835,Fully Furnished,No,Yes,No,No,,Yes,Yes,8524515,10209
+PROP-11394,3,4,2416,Semi-Furnished,No,No,Yes,Yes,Open,Yes,Yes,25276192,10462
+PROP-11395,3,3,1939,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,17993920,9280
+PROP-11396,1,1,558,Unfurnished,No,Yes,No,No,,Yes,No,4991310,8945
+PROP-11397,3,4,1603,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17168130,10710
+PROP-11398,5,5,8910,Semi-Furnished,Yes,No,No,No,Covered,Yes,Yes,103810410,11651
+PROP-11399,2,2,1118,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,9262630,8285
+PROP-11400,4,5,4274,Semi-Furnished,Yes,Yes,No,Yes,Private Garage,No,Yes,55643206,13019
+PROP-11401,3,3,2127,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,19683258,9254
+PROP-11402,4,4,4310,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,41328590,9589
+PROP-11403,2,3,1038,Semi-Furnished,No,No,No,Yes,Covered,Yes,Yes,10014624,9648
+PROP-11404,3,4,1651,Semi-Furnished,Yes,Yes,No,No,Covered,Yes,Yes,14613001,8851
+PROP-11405,2,3,1329,Unfurnished,No,Yes,No,No,Open,Yes,Yes,9583419,7211
+PROP-11406,1,2,773,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,7191992,9304
+PROP-11407,2,2,1438,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13429482,9339
+PROP-11408,3,3,1693,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,15416458,9106
+PROP-11409,3,3,1942,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,15302960,7880
+PROP-11410,2,3,973,Unfurnished,No,Yes,Yes,Yes,Open,No,No,8228661,8457
+PROP-11411,3,4,2514,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,26472420,10530
+PROP-11412,1,1,539,Semi-Furnished,No,No,No,Yes,Open,Yes,Yes,4771767,8853
+PROP-11413,5,5,6206,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,Yes,87665956,14126
+PROP-11414,3,3,1704,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,17055336,10009
+PROP-11415,2,2,1252,Unfurnished,No,Yes,No,Yes,Covered,Yes,No,6735760,5380
+PROP-11416,2,2,1065,Fully Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10751175,10095
+PROP-11417,2,2,1299,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,11552007,8893
+PROP-11418,2,3,972,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,11577492,11911
+PROP-11419,5,5,6843,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,68443686,10002
+PROP-11420,2,2,1003,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,9991886,9962
+PROP-11421,3,4,2511,Semi-Furnished,No,Yes,No,No,Open,No,Yes,22041558,8778
+PROP-11422,3,3,1935,Unfurnished,No,Yes,Yes,Yes,Covered,Yes,Yes,19655730,10158
+PROP-11423,3,3,2316,Fully Furnished,Yes,No,No,Yes,Covered,Yes,Yes,27963384,12074
+PROP-11424,3,4,2589,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,28080294,10846
+PROP-11425,2,2,1261,Semi-Furnished,No,No,No,Yes,Open,Yes,Yes,10434775,8275
+PROP-11426,3,3,2533,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,24590364,9708
+PROP-11427,2,3,1315,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,14900265,11331
+PROP-11428,2,3,1431,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9523305,6655
+PROP-11429,4,4,4429,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,57559284,12996
+PROP-11430,3,3,2013,Unfurnished,Yes,Yes,Yes,Yes,Covered,Yes,No,22654302,11254
+PROP-11431,3,4,2084,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,17926568,8602
+PROP-11432,3,3,2430,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,23111730,9511
+PROP-11433,2,2,1379,Fully Furnished,No,Yes,No,Yes,Open,Yes,No,12013848,8712
+PROP-11434,5,6,8284,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,111693172,13483
+PROP-11435,3,4,1663,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,20233721,12167
+PROP-11436,3,4,2329,Fully Furnished,No,Yes,Yes,Yes,Covered,No,No,20052690,8610
+PROP-11437,3,3,2333,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,27996000,12000
+PROP-11438,1,2,730,Semi-Furnished,No,Yes,Yes,Yes,,Yes,Yes,6724030,9211
+PROP-11439,3,3,1937,Unfurnished,No,Yes,Yes,Yes,Open,Yes,No,14821924,7652
+PROP-11440,1,2,807,Unfurnished,No,Yes,No,No,Open,Yes,Yes,7605168,9424
+PROP-11441,2,2,1021,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,6972409,6829
+PROP-11442,3,3,2111,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,24426381,11571
+PROP-11443,4,5,3048,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,44284392,14529
+PROP-11444,2,2,952,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,6735400,7075
+PROP-11445,3,3,1984,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,15602176,7864
+PROP-11446,3,3,1895,Unfurnished,No,Yes,No,No,Covered,Yes,No,16865500,8900
+PROP-11447,1,2,791,Unfurnished,No,Yes,Yes,Yes,,Yes,Yes,6671294,8434
+PROP-11448,3,4,1842,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,19138380,10390
+PROP-11449,4,4,3879,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,48739635,12565
+PROP-11450,1,1,546,Unfurnished,No,Yes,No,No,Open,Yes,Yes,4922736,9016
+PROP-11451,2,2,1035,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,10908900,10540
+PROP-11452,2,2,1206,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,10072512,8352
+PROP-11453,4,5,4469,Semi-Furnished,Yes,No,Yes,Yes,Private Garage,Yes,Yes,55402193,12397
+PROP-11454,2,3,1205,Unfurnished,No,Yes,No,No,Open,Yes,Yes,12105430,10046
+PROP-11455,3,3,1871,Fully Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,17834372,9532
+PROP-11456,3,4,1757,Unfurnished,No,Yes,No,No,Open,Yes,Yes,16840845,9585
+PROP-11457,3,3,1588,Unfurnished,Yes,Yes,No,Yes,Covered,Yes,Yes,16203952,10204
+PROP-11458,2,2,1204,Unfurnished,No,Yes,No,No,Covered,Yes,No,7236040,6010
+PROP-11459,3,3,2117,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,15460451,7303
+PROP-11460,3,4,2097,Semi-Furnished,Yes,Yes,Yes,Yes,Open,Yes,Yes,19133028,9124
+PROP-11461,3,3,1959,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15871818,8102
+PROP-11462,3,3,1708,Unfurnished,No,Yes,No,No,Open,Yes,Yes,13783560,8070
+PROP-11463,3,4,2147,Unfurnished,No,Yes,Yes,Yes,Open,Yes,Yes,23204776,10808
+PROP-11464,3,4,1823,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,13501138,7406
+PROP-11465,4,5,4852,Fully Furnished,Yes,Yes,No,Yes,Private Garage,Yes,Yes,67020676,13813
+PROP-11466,2,2,1123,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13205357,11759
+PROP-11467,2,3,1405,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,13931980,9916
+PROP-11468,3,4,2414,Semi-Furnished,No,No,No,No,Open,Yes,Yes,23461666,9719
+PROP-11469,5,5,7780,Unfurnished,Yes,Yes,No,Yes,Private Garage,Yes,No,77737760,9992
+PROP-11470,2,3,1190,Fully Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,13001940,10926
+PROP-11471,3,4,1637,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,16826723,10279
+PROP-11472,3,4,1725,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,20627550,11958
+PROP-11473,5,6,7593,Unfurnished,Yes,Yes,Yes,Yes,Private Garage,Yes,No,64403826,8482
+PROP-11474,3,3,2212,Semi-Furnished,No,Yes,Yes,Yes,Open,Yes,Yes,21772716,9843
+PROP-11475,2,2,944,Fully Furnished,No,Yes,No,No,Open,No,Yes,10051712,10648
+PROP-11476,2,2,1277,Fully Furnished,No,No,Yes,Yes,Covered,Yes,Yes,15156713,11869
+PROP-11477,2,2,1288,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,11383344,8838
+PROP-11478,3,4,1959,Semi-Furnished,Yes,Yes,No,No,Open,Yes,Yes,16020702,8178
+PROP-11479,3,4,2188,Fully Furnished,Yes,Yes,No,No,Covered,Yes,Yes,23534128,10756
+PROP-11480,2,3,1140,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,10647600,9340
+PROP-11481,4,5,4427,Semi-Furnished,Yes,Yes,Yes,Yes,Covered,Yes,Yes,46536624,10512
+PROP-11482,2,3,1290,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,9211890,7141
+PROP-11483,2,2,1164,Unfurnished,No,Yes,No,Yes,Open,Yes,Yes,10838004,9311
+PROP-11484,3,3,2126,Semi-Furnished,No,Yes,No,No,Open,Yes,Yes,17337530,8155
+PROP-11485,4,5,3764,Unfurnished,Yes,No,Yes,Yes,Covered,Yes,Yes,47535556,12629
+PROP-11486,2,2,903,Semi-Furnished,No,Yes,No,Yes,Open,Yes,Yes,9614241,10647
+PROP-11487,3,3,2319,Unfurnished,Yes,Yes,No,No,Covered,Yes,Yes,18869703,8137
+PROP-11488,3,4,1676,Semi-Furnished,No,Yes,No,No,Open,Yes,No,12851568,7668
+PROP-11489,3,3,1750,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,17038000,9736
+PROP-11490,2,3,981,Unfurnished,Yes,Yes,No,No,Open,Yes,Yes,9541206,9726
+PROP-11491,2,2,1074,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,12043836,11214
+PROP-11492,3,3,2332,Unfurnished,No,Yes,No,Yes,Covered,Yes,Yes,21682936,9298
+PROP-11493,3,4,2240,Semi-Furnished,No,No,No,No,Covered,Yes,Yes,18076800,8070
+PROP-11494,2,3,945,Semi-Furnished,No,Yes,No,Yes,Covered,Yes,Yes,6820065,7217
+PROP-11495,2,3,1332,Unfurnished,No,Yes,No,No,Covered,Yes,Yes,12363624,9282
+PROP-11496,2,3,1268,Semi-Furnished,No,Yes,Yes,Yes,Covered,Yes,Yes,15255308,12031
+PROP-11497,4,5,3549,Semi-Furnished,Yes,Yes,No,Yes,Covered,Yes,Yes,40731873,11477
+PROP-11498,2,2,1191,Fully Furnished,No,Yes,No,Yes,Open,Yes,Yes,10356936,8696
+PROP-11499,3,3,1776,Fully Furnished,No,Yes,No,No,Covered,Yes,Yes,19079568,10743
