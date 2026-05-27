@@ -47,4 +47,14 @@ This project can help users get a rough estimate of property prices, making it u
 https://estatesense-wld4mpb4tzestkqcck7hwx.streamlit.app/
 
 ## 🚀 Features
-...
+
+- 🔮 Predict property prices instantly using Machine Learning  
+- 🏠 Supports multiple property types like House, Flat, and Land  
+- 📊 Real-time prediction based on user inputs  
+- 🧠 Linear Regression model trained using Scikit-learn  
+- 🎨 Interactive and user-friendly Streamlit interface  
+- ⚡ Fast and lightweight web application  
+- 📍 Dynamic handling of property details such as area and BHK  
+- 📱 Responsive UI for smooth user experience  
+- 🔧 Easy to extend with advanced ML models and datasets  
+- 🌐 Live deployment accessible online anytime  
